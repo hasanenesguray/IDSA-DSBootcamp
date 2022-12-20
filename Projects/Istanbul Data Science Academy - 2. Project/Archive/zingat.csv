@@ -1,0 +1,613 @@
+,listing_names,listing_prices,location,netm2,bedroom_number,building_floor_number,floor,heating_system,age,situation,seller,title_dead_status,credit,rent_income
+0,Kadiköy Moda Sarraf Ali Sokak'ta Eşyalı Satılık 2+1 Daire,2750000,Caferağa,55.0,21.0,6.0,6,Kalorifer (Doğalgaz),36-40,Boş,Danışman,,Hayır,30000.0
+1,KADIKÖY BAHARİYE CADDESİNE 50 METRE MESAFEDE 70 M2 DÜKKAN,4750000,Caferağa,60.0,1.0,4.0,Zemin Kat,Klima,16-20,Kiracılı,Danışman,Kat Mülkiyeti,Evet,
+2,ANA CADDE ÜZERİNDE KİRACILI 100 M2 DÜKKAN,4750000,Caferağa,85.0,2.0,5.0,Zemin Kat,Merkezi Sistem,11-15,Kiracılı,Danışman,Kat Mülkiyeti,Evet,
+3,KADIKÖY ÇARŞISININ HAREKETLİ YERİNDE 300 M2 DÜKKAN,15000000,Caferağa,255.0,3.0,4.0,Zemin Kat,Kombi (Doğalgaz),16-20,Kiracılı,Danışman,Kat Mülkiyeti,Evet,
+4,KADIKÖY MODA DA OTOPARKLI YENİ BİNADA FERAH 130m2 FIRSAT 3+1,9750000,Caferağa,100.0,31.0,4.0,Yüksek Giriş,Kombi (Doğalgaz),6-10,Mülk,,,Evet,0.0
+5,Kadıköy Moda Sarraf Ali Sokak'ta Eşyalı Satılık 2+1 Daire,2750000,Caferağa,55.0,21.0,6.0,6,Klima,31-35,Boş,,,Evet,0.0
+6,Fenerbahçe Cemiltopulzu Caddesi 3+1 Balkonlu Daire,11950000,Caferağa,110.0,31.0,8.0,4,Kombi (Doğalgaz),16-20,Boş,,,Evet,0.0
+7,Bahariye Caddesine Yakın Asansörlü Binada Ofis,2475000,Caferağa,,2.0,5.0,3,Merkezi Sistem,16-20,Kiracılı,,,Hayır,0.0
+8,MODA SAHİLE 1 DAKİKA 220m2 İSKANLI BALKONLU 1.KAT SATILIK 4+1,6400000,Caferağa,200.0,41.0,4.0,1,Merkezi Sistem,31-35,Boş,Danışman,Kat Mülkiyeti,Evet,20000.0
+9,Kadıköy Caferağa Mahallesinde Yatırım İçin 1+1 Satılık Daire,3250000,Caferağa,50.0,11.0,6.0,Yüksek Giriş,Kombi (Doğalgaz),36-40,Kiracılı,Danışman,,Evet,
+10,PRESTİJLİ SOKAKTA BAHÇE KULLANIMLI GENİŞ SATILIK DAİRE,3050000,Caferağa,110.0,31.0,5.0,Bahçe katı,Merkezi Sistem,31-35,Kiracılı,,,Evet,0.0
+11,KADIKÖY CAFERAĞA'DA SATILIK 2+1 DAİRE,2750000,Caferağa,90.0,21.0,5.0,Bodrum Kat,Kombi (Doğalgaz),21-25,Kiracılı,,,Evet,0.0
+12,KADIKÖY MÜHÜRDAR CADDESİ ÜZERİNDE KİRACILI 1300 M2 KOMPLE BİNA,55000000,Caferağa,,,5.0,,Merkezi Sistem,6-10,Kiracılı,Danışman,Kat Mülkiyeti,Evet,
+13,KADIKÖY ÇARŞISININ HAREKETLİ YERİNDE 15 M2 DÜKKAN,4000000,Caferağa,13.0,1.0,4.0,Zemin Kat,Merkezi Sistem,21-25,Kiracılı,Danışman,Kat Mülkiyeti,Evet,
+14,Moda Caferağa'da Sahile Yakın 3+1 Keyifli Bahçe Katı Daire,4250000,Caferağa,100.0,31.0,5.0,Bahçe katı,Merkezi Sistem,31-35,Kiracılı,Danışman,Kat Mülkiyeti,Evet,0.0
+15,MODA CADDESİ ÜSTÜ 9 YILLIK İSKANLI BALKONLU 3.KAT 200m2 SATILIK,14000000,Caferağa,160.0,31.0,6.0,3,Kombi (Doğalgaz),6-10,Kiracılı,Danışman,Kat Mülkiyeti,Evet,20000.0
+16,Kadıköy Antikacılar Sokağında 2+1 Satılık Daire,3150000,Caferağa,70.0,21.0,4.0,2,Kombi (Doğalgaz),31-35,Kiracılı,,,Evet,0.0
+17,"Kadıköy Kadife Sokakta, Yüksek Kira Getirili, Satılık 2+1!",4300000,Caferağa,90.0,21.0,4.0,Giriş Katı,Kombi (Doğalgaz),26-30,Kiracılı,Danışman,,Evet,0.0
+18,"Kadıköy'de Yatırımlık, İçi Yapılı, Satılık 2+1Daire!",4800000,Caferağa,90.0,21.0,4.0,Giriş Katı,Kombi (Doğalgaz),26-30,Kiracılı,Danışman,Kat Mülkiyeti,Evet,0.0
+19,KADIKÖY ÇARŞISININ EN HAREKETLİ YERİNDE 400 M2 KOMPLE BİNA,40000000,Caferağa,,,5.0,,Kombi (Doğalgaz),21-25,Kiracılı,Danışman,,Evet,
+20,ANA CADDE ÜZERİNDE BANKA KİRACILI 750 M2 DÜKKAN,28000000,Caferağa,638.0,3.0,4.0,Zemin Kat,Merkezi Sistem,16-20,Kiracılı,Danışman,Kat Mülkiyeti,Evet,
+21,KADIKÖY MÜHÜRDAR CADDESİ ÜZERİNDE KİRACILI 650 M2 KOMPLE BİNA,35000000,Caferağa,,,5.0,,Kombi (Doğalgaz),11-15,Kiracılı,Danışman,Kat Mülkiyeti,Evet,
+22,KADIKÖY ÇARŞISININ HAREKETLİ YERİNDE 60 M2 DÜKKAN,3500000,Caferağa,51.0,2.0,4.0,Zemin Kat,Merkezi Sistem,21-25,Kiracılı,Danışman,,Evet,
+23,KADIKÖY MÜHÜRDAR CADDESİ ÜZERİNDE KİRACILI 300 M2 KOMPLE BİNA,30000000,Caferağa,,,3.0,,Kombi (Doğalgaz),26-30,Kiracılı,Danışman,,Evet,
+24,KADIKÖY BAHARİYE CADDESİNE İKİNCİ BİNADA 200 M2 DÜKKAN,4500000,Caferağa,170.0,3.0,4.0,Zemin Kat,Kombi (Doğalgaz),26-30,Kiracılı,Danışman,,Evet,
+25,KADIKÖY BAHARİYE CADDESİ ÜZERİNDE 200 M2 MAĞAZA,6750000,Caferağa,170.0,2.0,4.0,Zemin Kat,Merkezi Sistem,26-30,Kiracılı,Danışman,,Evet,0.0
+26,KADIKÖY ÇARŞISININ HAREKETLİ YERİNDE 60 M2 DÜKKAN,10000000,Caferağa,51.0,2.0,4.0,Zemin Kat,Merkezi Sistem,21-25,Kiracılı,Danışman,,Evet,
+27,KADIKÖY MODA CADDESİ ÜZERİNDE KİRACILI 300 M2 DÜKKAN,30000000,Caferağa,255.0,3.0,4.0,Zemin Kat,Merkezi Sistem,21-25,Kiracılı,Danışman,Kat Mülkiyeti,Evet,
+28,KADIKÖY MODA CADDESİ ÜZERİNDE KİRACILI 125 M2 DÜKKAN,8500000,Caferağa,107.0,1.0,4.0,Zemin Kat,Merkezi Sistem,21-25,Kiracılı,Danışman,,Evet,
+29,KADIKÖY ÇARŞISININ HAREKETLİ YERİNDE KİRACILI 30 M2 DÜKKAN,4000000,Caferağa,26.0,1.0,4.0,Zemin Kat,Klima,26-30,Kiracılı,Danışman,,Evet,8000.0
+30,KADIKÖY MODA CADDESİ ÜZERİNDE 90 M2 DÜKKAN,18500000,Caferağa,77.0,4.0,4.0,Zemin Kat,Klima,26-30,Kiracılı,Danışman,Kat Mülkiyeti,Evet,
+31,KADIKÖY BAHARİYE CADDESİ ÜZERİNDE 125 M2 DÜKKAN,5000000,Caferağa,107.0,1.0,4.0,Zemin Kat,Merkezi Sistem,26-30,Kiracılı,Danışman,Kat Mülkiyeti,Evet,
+32,KADIKÖY ÇARŞISININ HAREKETLİ YERİNDE 250 M2 DÜKKAN,5500000,Caferağa,213.0,2.0,4.0,Zemin Kat,Kombi (Doğalgaz),16-20,Kiracılı,Danışman,,Evet,
+33,KADIKÖY ÇARŞISININ HAREKETLİ YERİNDE 50 M2 DÜKKAN,4500000,Caferağa,43.0,2.0,4.0,Zemin Kat,Merkezi Sistem,21-25,Kiracılı,Danışman,,Evet,
+34,ANA CADDE ÜZERİNDE 50 M2 DÜKKAN,4000000,Caferağa,43.0,3.0,4.0,Zemin Kat,Klima,26-30,Kiracılı,Danışman,,Evet,0.0
+35,KADIKÖY ÇARŞISININ HAREKETLİ YERİNDE KİRACILI 250 M2 KOMPLE BİNA,12500000,Caferağa,,,4.0,,Kombi (Doğalgaz),2,Kiracılı,Danışman,,Evet,
+36,KADIKÖY ÇARŞISININ HAREKETLİ YERİNDE 80 M2 DÜKKAN,10000000,Caferağa,68.0,2.0,4.0,Zemin Kat,Klima,16-20,Kiracılı,Danışman,,Evet,0.0
+37,KADIKÖY HASIRCIBAŞI CADDESİNDE 220 M2 DÜKKAN,4500000,Caferağa,187.0,2.0,4.0,Zemin Kat,Kombi (Doğalgaz),16-20,Kiracılı,Danışman,,Evet,
+38,KADIKÖY MODA CADDESİ ÜZERİNDE KİRACILI 300 M2 DÜKKAN,25000000,Caferağa,255.0,2.0,4.0,Zemin Kat,Merkezi Sistem,26-30,Kiracılı,Danışman,,Evet,
+39,MERKEZİ KONUMDA KİRACILI 400 M2 DÜKKAN,7500000,Caferağa,340.0,2.0,4.0,Zemin Kat,Merkezi Sistem,16-20,Kiracılı,Danışman,,Evet,13000.0
+40,KADIKÖY MÜHÜRDAR CADDESİ ÜZERİNDE 900 M2 MAĞAZA,90000000,Caferağa,765.0,2.0,4.0,Zemin Kat,Merkezi Sistem,16-20,Kiracılı,Danışman,Kat Mülkiyeti,Evet,
+41,Serasker Caddesi'nde Tabela Değeri Yüksek Satılık Ofis Katı,3750000,Caferağa,,3.0,4.0,2,Kombi (Doğalgaz),40,Kiracılı,Danışman,Kat Mülkiyeti,Evet,0.0
+42,Moda Mühürdar caddesinde denize yakın 4 yıllık satılık daire,7000000,Caferağa,120.0,31.0,7.0,Kot 1,Kombi (Doğalgaz),4,Kiracılı,Danışman,Kat Mülkiyeti,Evet,15000.0
+43,TURYAP TAN KADIKÖY DE DENİZ MANZARALI 2+1 FIRSAT SATILIK DAİRE,2950000,Caferağa,75.0,21.0,4.0,4,Kombi (Doğalgaz),31-35,Boş,,Kat Mülkiyeti,Evet,0.0
+44,KADIKÖY RIHTIM CADDESİ ÜZERİNDE KİRACILI 550 M2 DÜKKAN,27500000,Caferağa,467.0,3.0,5.0,Zemin Kat,Kombi (Doğalgaz),21-25,Kiracılı,Danışman,,Evet,
+45,KADIKÖY ÇARŞISININ HAREKETLİ YERİNDE 160 M2 DÜKKAN,3750000,Caferağa,136.0,,4.0,,Merkezi Sistem,16-20,Kiracılı,Danışman,,Evet,
+46,KADIKÖY RIHTIM CADDESİ ÜZERİNDE KİRACILI 320 M2 DÜKKAN,17500000,Caferağa,272.0,2.0,4.0,Zemin Kat,Merkezi Sistem,21-25,Kiracılı,Danışman,,Evet,
+47,ANA CADDE ÜZERİNDE 180 M2 DÜKKAN,15000000,Caferağa,153.0,3.0,4.0,Zemin Kat,Kombi (Doğalgaz),21-25,Kiracılı,Danışman,,Evet,0.0
+48,KADIKÖY ÇARŞISININ  HAREKETLİ YERİNDE KİRACILI 50 M2 DÜKKAN,5000000,Caferağa,43.0,2.0,4.0,Zemin Kat,Merkezi Sistem,26-30,Kiracılı,Danışman,,Evet,10000.0
+49,KADIKÖY ÇARŞISININ HAREKETLİ YERİNDE 60 M2 DÜKKAN,4250000,Caferağa,51.0,1.0,4.0,Zemin Kat,Merkezi Sistem,21-25,Kiracılı,Danışman,,Evet,
+50,Modada Rıhtıma Yakın 4+1 Mimari Dekorlu Daire EMLAK MASASI,5500000,Caferağa,120.0,41.0,4.0,2,Kombi (Doğalgaz),31-35,Boş,Danışman,Kat Mülkiyeti,Evet,0.0
+51,KADIKÖY BAHARİYE CADDESİ ÜZERİNDE KİRACILI 30 M2 DÜKKAN,22500000,Caferağa,26.0,1.0,4.0,Zemin Kat,Merkezi Sistem,21-25,Kiracılı,Danışman,Kat Mülkiyeti,Evet,
+52,KADIKÖY SAKIZGÜLÜ SOKAKTA KİRACILI 36 M2 DÜKKAN,9500000,Caferağa,31.0,2.0,4.0,Zemin Kat,Merkezi Sistem,21-25,Kiracılı,Danışman,Kat Mülkiyeti,Evet,
+53,KADIKÖY ÇARŞISININ HAREKETLİ YERİNDE 110 M2 DÜKKAN,3250000,Caferağa,94.0,2.0,4.0,Zemin Kat,Merkezi Sistem,21-25,Boş,Danışman,Kat Mülkiyeti,Evet,
+54,KIZILTOPRAK BAĞDAT CADDESİ ÜZERİNDE 90 M2 OFİS,3500000,Caferağa,,2.0,4.0,3,Kombi (Doğalgaz),26-30,Kiracılı,Danışman,Kat Mülkiyeti,Evet,
+55,KADIKÖY ÇARŞISININ HAREKETLİ YERİNDE 110 M2 DÜKKAN,4250000,Caferağa,94.0,2.0,4.0,Zemin Kat,Merkezi Sistem,26-30,Kiracılı,Danışman,Kat Mülkiyeti,Evet,
+56,KADIKÖY ÇARŞISININ HAREKETLİ YERİNDE 120 M2 DÜKKAN,3750000,Caferağa,102.0,2.0,4.0,Zemin Kat,Merkezi Sistem,26-30,Kiracılı,,Kat Mülkiyeti,Evet,
+57,KADIKÖY ÇARŞI İÇİNDE OFİS KATI,650000,Caferağa,,1.0,5.0,4,,,,Danışman,,Evet,
+58,KADIKÖY'DE SATILIK KOMPLE BİNA,30000000,Caferağa,,,7.0,,Kombi (Doğalgaz),21-25,Kiracılı,Danışman,Kat Mülkiyeti,Evet,
+59,KADIKÖY ÇARŞI İÇİNDE OFİS KATI,650000,Caferağa,,,,,,,,,,Evet,0.0
+60,İstanbul Kadıköy Tarihi Balıkçılar Çarşısında Satılık Butik Otel,51275000,Caferağa,,,5.0,,,40,,,,Evet,
+61,SATILIK HASTANE,150000000,Caferağa,,,,,,,,,,Evet,
+62,MODA EMİN ONAT SOKAKTA EŞSİZ KONUMDA 3+1 140 M2 DAİRE,8400000,Caferağa,120.0,31.0,4.0,2,Merkezi Sistem (Isı Payı Ölçer),31-35,Kiracılı,,,Evet,0.0
+63,"25 square meters Store / Shop For Sale in Kadıköy, İstanbul, Turkey",5500000,Caferağa,22.0,,,,,,,,,,
+64,"145 square meters Store / Shop For Sale in Kadıköy, İstanbul, Turkey",22500000,Caferağa,124.0,,,,,,,,,,
+65,"110 square meters Store / Shop For Sale in Kadıköy, İstanbul, Turkey",5500000,Caferağa,94.0,,,,,,,,,,
+66,"135 square meters Store / Shop For Sale in Kadıköy, İstanbul, Turkey",6750000,Caferağa,115.0,,,,,,,,,,
+67,"70 square meters 1+1 bedrooms Apartment For Sale in Kadıköy, İstanbul, Turkey",5800000,Caferağa,56.0,,,,,,,,,,
+68,"180 square meters Store / Shop For Sale in Kadıköy, İstanbul, Turkey",12500000,Caferağa,153.0,,,,,,,,,,
+69,"15 square meters Store / Shop For Sale in Kadıköy, İstanbul, Turkey",1750000,Caferağa,13.0,,,,,,,,,,
+70,"91 square meters 2+1 bedrooms Apartment For Sale in Kadıköy, İstanbul, Turkey",4000000,Caferağa,78.0,,,,,,,,,,
+71,"125 square meters 3+1 bedrooms Apartment For Sale in Kadıköy, İstanbul, Turkey",5000000,Caferağa,110.0,,,,,,,,,,
+72,"150 square meters 3+1 bedrooms Apartment For Sale in Kadıköy, İstanbul, Turkey",7200000,Caferağa,140.0,,,,,,,,,,
+73,"700 square meters  bedrooms Building For Sale in Kadıköy, İstanbul, Turkey",45000000,Caferağa,680.0,,,,,,,,,,
+74,"125 square meters 3+1 bedrooms Apartment For Sale in Kadıköy, İstanbul, Turkey",6500000,Caferağa,115.0,,,,,,,,,,
+75,"135 square meters 3+1 bedrooms Apartment For Sale in Kadıköy, İstanbul, Turkey",6450000,Caferağa,110.0,,,,,,,,,,
+76,"71 square meters 2+1 bedrooms Apartment For Sale in Kadıköy, İstanbul, Turkey",4500000,Caferağa,56.0,,,,,,,,,,
+77,"15 square meters Store / Shop For Sale in Kadıköy, İstanbul, Turkey",660000,Caferağa,,,,,,,,,,,
+78,"170 square meters 3+1 bedrooms Apartment For Sale in Kadıköy, İstanbul, Turkey",6800000,Caferağa,150.0,,,,,,,,,,
+79,"185 square meters Residential Zone For Sale in Kadıköy, İstanbul, Turkey",28000000,Caferağa,,,,,,,,,,,
+80,"120 square meters 3+1 bedrooms Apartment For Sale in Kadıköy, İstanbul, Turkey",6400000,Caferağa,110.0,,,,,,,,,,
+81,kadıköy satılık bina rıhtımda deniz manzaralı camlı fırsat fiyat,18500000,Osmanağa,,,7.0,,Kombi (Elektrikli),16-20,Kiracılı,Danışman,Kat Mülkiyeti,Evet,
+82,KADIKÖY BAHARİYE CADDESİ'NDE SATILIK 30 M2 KÖŞE DÜKKAN,23500000,Osmanağa,25.0,1.0,,,,26-30,Kiracılı,Danışman,,Evet,
+83,MERKEZİ KONUMDA 140 M2 DÜKKAN,12500000,Osmanağa,119.0,1.0,4.0,Zemin Kat,Merkezi Sistem,26-30,Kiracılı,Danışman,Kat Mülkiyeti,Evet,
+84,KADIKÖY SERASKER CADDESİNDE KİRACILI 90 M2 DÜKKAN,3750000,Osmanağa,77.0,2.0,4.0,Zemin Kat,Klima,21-25,Kiracılı,Danışman,Kat Mülkiyeti,Evet,
+85,KADIKÖY ÇARŞISININ HAREKETLİ YERİNDE 180 M2 DÜKKAN,6000000,Osmanağa,153.0,2.0,4.0,Zemin Kat,Merkezi Sistem,16-20,Kiracılı,Danışman,Kat Mülkiyeti,Evet,
+86,KADIKÖY ÇARŞISININ HAREKETLİ YERİNDE KİRACILI 280 M2 DÜKKAN,7250000,Osmanağa,238.0,2.0,4.0,Zemin Kat,Kombi (Doğalgaz),21-25,Kiracılı,Danışman,Kat Mülkiyeti,Evet,
+87,KADIKÖY VİŞNE SOKAKTA 80 M2 DAİRE,1750000,Osmanağa,68.0,21.0,4.0,Giriş Katı,Kombi (Doğalgaz),26-30,Kiracılı,Danışman,Kat Mülkiyeti,Evet,
+88,KADIKÖY RIHTIM CADDESİNE 150 METRE MESAFEDE 300 M2 DÜKKAN,5000000,Osmanağa,255.0,3.0,4.0,Zemin Kat,Kombi (Doğalgaz),16-20,Kiracılı,Danışman,Kat Mülkiyeti,Evet,
+89,Kadıköy Hasırcı Başında Teraslı Satılık Daire,5200000,Osmanağa,66.0,22.0,4.0,4,Kombi (Doğalgaz),0,Boş,,,Evet,0.0
+90,KADIKÖY HALİTAĞA CADDESİ'NDE SATILIK 3+1 DAİRE,3600000,Osmanağa,100.0,31.0,4.0,4,Kombi (Doğalgaz),26-30,Kiracılı,Danışman,Kat Mülkiyeti,Evet,
+91,KADIKÖY BOĞA İLE RIHTIM ARASINDA SATILIK DÜKKAN & MAĞAZA,1500000,Osmanağa,53.0,3.0,1.0,,Yok,26-30,Kiracılı,Danışman,Kat Mülkiyeti,Evet,
+92,KADIKÖY BOĞA İLE RIHTIM ARASINDA SATILIK DÜKKAN & MAĞAZA,600000,Osmanağa,24.0,1.0,,4,Yok,26-30,,Danışman,Kat Mülkiyeti,Evet,
+93,KADIKÖY BOĞA İLE RIHTIM ARASINDA SATILIK DÜKKAN & MAĞAZA,1800000,Osmanağa,60.0,2.0,7.0,Giriş Katı,Yok,26-30,Kiracılı,Danışman,Kat Mülkiyeti,Evet,
+94,KADIKÖY OSMANAĞA'DA YÜKSEK YATIRIM DEĞERLİ ÜST KAT 1+1 SATILIK F,3000000,Osmanağa,65.0,11.0,5.0,5,Kombi (Doğalgaz),40,Kiracılı,Danışman,Arsa Tapulu,Hayır,
+95,Kadıköy de Yatırıma Uygun Teraslı Satılık 4+1,4150000,Osmanağa,120.0,41.0,5.0,5,Kalorifer (Doğalgaz),21-25,Boş,Danışman,Kat Mülkiyeti,Evet,
+96,KADIKÖY RIHTIM CADDESİ ÜZERİNDE 2100 M2 KOMPLE BİNA,115000000,Osmanağa,,,6.0,,Merkezi Sistem,21-25,Kiracılı,Danışman,Kat Mülkiyeti,Evet,
+97,ANA CADDE ÜZERİNDE KİRACILI 300 M2 DÜKKAN,14500000,Osmanağa,255.0,2.0,4.0,Zemin Kat,Kombi (Doğalgaz),1,Kiracılı,Danışman,Kat Mülkiyeti,Evet,
+98,KADIKÖY ÇARŞISININ HAREKETLİ YERİNDE 600 M2 KOMPLE BİNA,30000000,Osmanağa,,,8.0,,Kombi (Doğalgaz),6-10,Kiracılı,Danışman,Kat Mülkiyeti,Evet,
+99,KADIKÖY ALTIYOL SÖĞÜTLÜ ÇEŞME CADDESİ ÜZERİNDE 500 M2 DÜKKAN,40000000,Osmanağa,425.0,3.0,4.0,,Merkezi Sistem,26-30,Kiracılı,Danışman,Kat Mülkiyeti,Evet,
+100,KADIKÖY HALİTAĞA CADDESİ'NDE SATILIK BAHÇELİ MÜSTAKİL BİNA,35000000,Osmanağa,,,4.0,,,26-30,Mülk,Danışman,Kat Mülkiyeti,Evet,
+101,KADIKÖY HALİTAĞA CADDESİ'NDE SATILIK KOMPLE BİNA,23000000,Osmanağa,,,8.0,,,16-20,Kiracılı,Danışman,,Evet,
+102,Kadıköy 6 Yol Meydanda Üç Cepheli Ofis,5750000,Osmanağa,,4.0,5.0,5,Kombi (Doğalgaz),36-40,Kiracılı,,,Evet,0.0
+103,KADIKÖY BAHARİYE CADDESİ'NE YAKIN SATILIK 1+1 DAİRE,3100000,Osmanağa,50.0,11.0,3.0,1,Kombi (Doğalgaz),11-15,Mülk,Danışman,Kat Mülkiyeti,Evet,
+104,KADIKÖY RIHTIM CAD SATILIK 88 M² ARSA,11750000,Osmanağa,,,,,,,,,Müstakil Parsel,Evet,
+105,KADIKÖY YATIRIMLIK DÜKKAN,990000,Osmanağa,,,,,,,,,,Evet,0.0
+106,HASIRCIBAŞINDA GİRİŞ KAT 2+1 DAİRE,3850000,Osmanağa,76.0,21.0,5.0,Garden Floor,Combi Boiler (Natural Gas),Between,Occupied,,,Hayır,0.0
+107,KADIKÖY ÇARŞISININ HAREKETLİ YERİNDE 140 M2 DÜKKAN,7000000,Osmanağa,119.0,2.0,4.0,Zemin Kat,Kombi (Doğalgaz),21-25,Kiracılı,Danışman,Kat Mülkiyeti,Evet,
+108,KADIKÖY ALTIYOL'DA KURUMSAL KİRACILI SATILIK KOMPLE BİNA,22500000,Osmanağa,,,5.0,,Klima,31-35,Kiracılı,Danışman,,Evet,
+109,SÖĞÜTLÜ ÇEŞME CADDESİ ÜZERİNDE KİRACILI 1000 M2 KOMPLE BİNA,30000000,Osmanağa,,,6.0,,Kombi (Doğalgaz),16-20,Kiracılı,Danışman,,Evet,
+110,KADIKÖY SÖĞÜTLÜ ÇEŞME CADDESİ ÜZERİNDE 110 M2 MAĞAZA,18750000,Osmanağa,94.0,2.0,4.0,Zemin Kat,Merkezi Sistem,16-20,Kiracılı,Danışman,Kat Mülkiyeti,Evet,
+111,ANA CADDE ÜZERİNDE 20 M2 DÜKKAN,5500000,Osmanağa,17.0,1.0,4.0,Zemin Kat,Merkezi Sistem,21-25,Kiracılı,Danışman,,Evet,
+112,ANA CADDE ÜZERİNDE 90 M2 DÜKKAN,4500000,Osmanağa,77.0,2.0,4.0,Zemin Kat,Merkezi Sistem,21-25,Kiracılı,Danışman,Kat Mülkiyeti,Evet,
+113,ANA CADDE ÜZERİNDE 100 M2 DÜKKAN,2750000,Osmanağa,85.0,3.0,4.0,Zemin Kat,Merkezi Sistem,21-25,Kiracılı,Danışman,Kat Mülkiyeti,Evet,
+114,KADIKÖY SÖĞÜTLÜ ÇEŞME CADDESİNE İLK SIRADA KİRACILI 18 M2 DÜKKAN,1250000,Osmanağa,16.0,1.0,4.0,Zemin Kat,Merkezi Sistem,26-30,Kiracılı,Danışman,Kat Mülkiyeti,Evet,3500.0
+115,KADIKÖY HASIRCIBAŞI CADDESİ ÜZERİNDE KİRACILI 80 M2 DÜKKAN,5000000,Osmanağa,68.0,2.0,4.0,Zemin Kat,Merkezi Sistem,21-25,Kiracılı,Danışman,,Evet,
+116,KADIKÖY ÇARŞISININ HAREKETLİ YERİNDE KİRACILI 180 M2 DÜKKAN,4500000,Osmanağa,153.0,2.0,6.0,Bodrum Kat,Merkezi Sistem,21-25,Kiracılı,Danışman,,Evet,12000.0
+117,KADIKÖY BAHARİYE CADDESİ ÜZERİNDE KİRACILI 130 M2 MAĞAZA,8000000,Osmanağa,111.0,2.0,4.0,Zemin Kat,Merkezi Sistem,21-25,Kiracılı,Danışman,Kat Mülkiyeti,Evet,33000.0
+118,KADIKÖY ÇARŞISININ HAREKETLİ YERİNDE 165 M2 DÜKKAN,4750000,Osmanağa,141.0,3.0,4.0,Zemin Kat,Kombi (Doğalgaz),21-25,Kiracılı,Danışman,,Evet,
+119,KADIKÖY BAHARİYE CADDESİ GİRİŞİNDE 300 M2 DÜKKAN,5000000,Osmanağa,255.0,3.0,4.0,Zemin Kat,Kombi (Doğalgaz),16-20,Kiracılı,Danışman,,Evet,
+120,KADIKÖY ÇARŞISININ HAREKETLİ YERİNDE 150 M2 DÜKKAN,5500000,Osmanağa,128.0,3.0,4.0,Zemin Kat,Kombi (Doğalgaz),21-25,Kiracılı,Danışman,,Evet,12000.0
+121,KADIKÖY ÇARŞISININ  HAREKETLİ YERİNDE KİRACILI 190 M2 DÜKKAN,5000000,Osmanağa,161.0,2.0,4.0,Zemin Kat,Kombi (Doğalgaz),26-30,Kiracılı,Danışman,,Evet,21000.0
+122,KADIKÖY BAHARİYE CADDESİ ÜZERİNDE 180 M2 MAĞAZA,20000000,Osmanağa,153.0,2.0,4.0,Zemin Kat,Merkezi Sistem,21-25,Kiracılı,Danışman,Kat Mülkiyeti,Evet,
+123,KADIKÖY ÇARŞISININ HAREKETLİ YERİNDE 60 M2 DÜKKAN,4250000,Osmanağa,51.0,2.0,4.0,Zemin Kat,Klima,21-25,Kiracılı,Danışman,,Evet,
+124,KADIKÖY SÖĞÜTLÜ ÇEŞME CADDESİ ÜZERİNDE 100 M2 DÜKKAN,6500000,Osmanağa,85.0,1.0,4.0,Zemin Kat,Kombi (Doğalgaz),26-30,Kiracılı,Danışman,,Evet,0.0
+125,KADIKÖY RIHTIM CADDESİ GİRİŞİNDE KİRACILI 200 M2 BİNA,12000000,Osmanağa,,,6.0,,Kombi (Doğalgaz),11-15,Kiracılı,Danışman,Kat Mülkiyeti,Evet,
+126,KADIKÖY ALTIYOL KUŞDİLİ CADDESİ ÜZERİNDE 220 M2 MAĞAZA,25000000,Osmanağa,187.0,2.0,4.0,Zemin Kat,Merkezi Sistem,21-25,Kiracılı,Danışman,,Evet,
+127,KADIKÖY ÇARŞISININ HAREKETLİ YERİNDE 80 M2 DÜKKAN,4500000,Osmanağa,68.0,1.0,4.0,Zemin Kat,Kombi (Doğalgaz),21-25,Kiracılı,Danışman,Kat Mülkiyeti,Evet,
+128,KADIKÖY SÖĞÜTLÜ ÇEŞME CADDESİ ÜZERİNDE KİRACILI 80 M2 MAĞAZA,8500000,Osmanağa,68.0,2.0,4.0,Zemin Kat,Merkezi Sistem,21-25,Kiracılı,Danışman,,Evet,
+129,ALTIYOL SÖĞÜTLÜ ÇEŞME CADDESİ ÜZERİNDE KİRACILI 75 M2 MAĞAZA,20000000,Osmanağa,64.0,3.0,5.0,Zemin Kat,Merkezi Sistem,21-25,Kiracılı,Danışman,,Evet,
+130,KADIKÖY SERASKER CADDESİ GİRİŞİNDE 140 M2 KOMPLE BİNA,12500000,Osmanağa,,,4.0,,Kombi (Doğalgaz),40,Kiracılı,Danışman,Kat Mülkiyeti,Evet,
+131,KADIKÖY SÖĞÜTLÜ ÇEŞME CADDESİ ÜZERİNDE 750 M2 BİNA,35000000,Osmanağa,,,3.0,,Kombi (Doğalgaz),21-25,Kiracılı,Danışman,Kat Mülkiyeti,Evet,
+132,KADIKÖY ÇARŞISININ HAREKETLİ YERİNDE KİRACILI 150 M2 DÜKKAN,18750000,Osmanağa,128.0,1.0,4.0,Zemin Kat,Kombi (Doğalgaz),21-25,Kiracılı,Danışman,Kat Mülkiyeti,Evet,
+133,kadıköy merkezde satılık 5 katlı komple bina,30000000,Osmanağa,,,,,,,,,Kat Mülkiyeti,Evet,
+134,KADIKÖY ÇARŞISININ HAREKETLİ YERİNDE 25 M2 DÜKKAN,3750000,Osmanağa,22.0,1.0,4.0,Zemin Kat,Merkezi Sistem,21-25,Kiracılı,Danışman,,Evet,0.0
+135,KADIKÖY ÇARŞISININ HAREKETLİ YERİNDE KİRACILI 25 M2 DÜKKAN,3250000,Osmanağa,22.0,1.0,5.0,Zemin Kat,Merkezi Sistem,21-25,Kiracılı,Danışman,,Evet,8000.0
+136,KADIKÖY ÇARŞISININ HAREKETLİ YERİNDE 130 M2 DÜKKAN,6000000,Osmanağa,111.0,2.0,4.0,Zemin Kat,Klima,21-25,Kiracılı,Danışman,,Evet,0.0
+137,KADIKÖY HALİTAĞA CADDESİ ÜZERİNDE 40 M2 DÜKKAN,6500000,Osmanağa,34.0,1.0,4.0,Zemin Kat,Kombi (Doğalgaz),26-30,Kiracılı,Danışman,Kat Mülkiyeti,Evet,
+138,KADIKÖY ÇARŞISININ HAREKETLİ YERİNDE KİRACILI 1000M2 KOMPLE BİNA,25000000,Osmanağa,,,6.0,,Merkezi Sistem,16-20,Kiracılı,Danışman,Kat Mülkiyeti,Evet,
+139,KADIKÖY HALİTAĞA CADDESİ'NDE SATILIK BAHÇELİ MÜSTAKİL BİNA,35000000,Osmanağa,1160.0,,4.0,,Kombi (Doğalgaz),26-30,Mülk,Danışman,Kat Mülkiyeti,Evet,
+140,İSTANBULDA SATILIK OTEL 1/3 HİSSE,6500000,Osmanağa,500.0,10.0,4.0,,,1,,Danışman,,Evet,
+141,KADIKÖY SÖĞÜTLÜ ÇEŞME CADDESİNE PARALEL 180 M2 DÜKKAN,5000000,Osmanağa,153.0,3.0,4.0,Zemin Kat,Kombi (Doğalgaz),21-25,Kiracılı,Danışman,Kat Mülkiyeti,Evet,
+142,KADIKÖY BAHARİYE CADDESİ GİRİŞİNDE 40 M2 DÜKKAN,4000000,Osmanağa,34.0,2.0,4.0,Zemin Kat,Merkezi Sistem,21-25,Kiracılı,Danışman,Kat Mülkiyeti,Evet,
+143,MERKEZİ KONUMDA 320 M2 DÜKKAN,10000000,Osmanağa,272.0,2.0,4.0,Zemin Kat,Kombi (Doğalgaz),26-30,Kiracılı,Danışman,Kat Mülkiyeti,Evet,
+144,SATILIK ARAKAT DAİRE  ACIBADEM CADDESİ NE YAKIN  3+1  AÇIK OTOPA,3800000,Osmanağa,120.0,31.0,4.0,1,Kombi (Doğalgaz),40,Boş,Danışman,Kat Mülkiyeti,Hayır,
+145,Kadıköy' de Satılık Turistik Otel,89000000,Osmanağa,,,,,,,,,,Evet,
+146,MODA YOĞURTÇU PARKI CADDESİ ÜZERİNDE YATIRIMLIK DÜKKAN-MAĞAZA,23000000,Osmanağa,,3.0,,,Kombi (Doğalgaz),0,,,,Evet,0.0
+147,KADIKÖY ALTIYOL'DA SATILIK 260m2 OFİS & BÜRO,9000000,Osmanağa,,6.0,6.0,5,Merkezi Sistem,26-30,,Danışman,Arsa Tapulu,Evet,
+148,MALTEPE AĞAOĞLU NOUVEL SİTESİ'NDE 3+1 SATILIK DAİRE,6000000,Osmanağa,90.0,31.0,1020.0,3,Merkezi Sistem (Isı Payı Ölçer),,Boş,Danışman,,Evet,
+149,AVANTAJLI KURUMSAL KİRACILI TİCARİ GAYRİMENKULLER,30000000,Osmanağa,,1.0,,,Yok,3,,,,Evet,0.0
+150,Kadıköy Osmanağa Yoğurtcu Kavşağı Satılık 2+1 Ara Kat Daire,3750000,Osmanağa,80.0,21.0,5.0,4,Kombi (Doğalgaz),31-35,Kiracılı,Danışman,,Evet,4900.0
+151,KADIKÖY RIHTIM'A YAKIN SATILIK OFİS & BÜRO,650000,Osmanağa,,1.0,6.0,6,Yok,31-35,Kiracılı,Danışman,Kat Mülkiyeti,Evet,
+152,KADIKÖY ÇARŞISININ HAREKETLİ YERİNDE 80 M2 DÜKKAN,15000000,Osmanağa,68.0,1.0,4.0,Zemin Kat,Klima,21-25,,Danışman,Kat Mülkiyeti,Evet,
+153,ANA CADDE ÜZERİNDE 1100 M2 DÜKKAN,70000000,Osmanağa,935.0,4.0,4.0,Zemin Kat,Kombi (Doğalgaz),0,,Danışman,Kat Mülkiyeti,Evet,
+154,MERKEZİ KONUMDA KİRACILI 25 M2 DÜKKAN,1250000,Osmanağa,22.0,1.0,4.0,Zemin Kat,Klima,21-25,Kiracılı,Danışman,Kat Mülkiyeti,Evet,3500.0
+155,KADIKÖY'DE SATILIK 7 KATLI MÜKEMMEL KOMPLE BİNA,24500000,Osmanağa,,,7.0,,Kombi (Doğalgaz),11-15,Kiracılı,Danışman,,Hayır,
+156,KADIKÖY RIHTIM'A YAKIN SATILIK 3+1 DAİRE,3450000,Osmanağa,130.0,31.0,,2,Kombi (Doğalgaz),31-35,Kiracılı,Danışman,Kat Mülkiyeti,Evet,
+157,TURYAP GÖZETEPE DEN KADIKÖY EFES ÇARŞISINDA SATILIK OFİS BÜRO,850000,Osmanağa,,2.0,5.0,4,Kombi (Elektrikli),26-30,Kiracılı,,Kat İrtifakı,Evet,0.0
+158,KADIKÖY ÇARŞISININ HAREKETLİ YERİNDE KİRACILI 240 M2 DÜKKAN,5500000,Osmanağa,204.0,2.0,4.0,Zemin Kat,Merkezi Sistem,21-25,Kiracılı,Danışman,Kat Mülkiyeti,Evet,
+159,"Kadıköy, Altıyol'da Tabela Değeri Yüksek Satılık 70 M2 İşyeri",10750000,Osmanağa,,1.0,4.0,1,Klima,36-40,Kiracılı,Danışman,,Hayır,
+160,Amiral'den Kadıköy Altı Yolda Boğa Karşısında Satılık Ofis 12m2,749999,Osmanağa,,1.0,5.0,2,Merkezi Sistem (Isı Payı Ölçer),40,Boş,Danışman,Kat Mülkiyeti,Evet,0.0
+161,BAHARİYE'DE ALTINDA DÜKKAN OLAN BEŞ KATLI MÜSTAKİL BİNA,11000000,Osmanağa,,,,,,,,,,Evet,
+162,"Kadıköy, Altıyolda Tabela Değeri Yüksek Satılık 70 M2 İşyeri",10750000,Osmanağa,,1.0,4.0,1,Klima,26-30,Kiracılı,Danışman,,Hayır,
+163,KADIKÖY VİŞNE SOKAKTA 100 M2 SATILIK DÜKKAN,4000000,Osmanağa,,,,,Klima,,,,,Evet,0.0
+164,KADIKÖY OSMANAĞA VİŞNE SOKAKTA İSKANLI 1+1SATILIK DAİRE,1750000,Osmanağa,65.0,11.0,3.0,Yüksek Giriş,Klima,31-35,Kiracılı,,,Evet,0.0
+165,KADIKÖY ALTIYOL VIŞNE SOKAKTA 180 M2 SATILIK DÜKKAN & MAĞAZA,5700000,Osmanağa,,4.0,,,Kombi (Doğalgaz),,,,,Evet,0.0
+166,KADIKÖY OSMANAĞA MERKEZDE CADDE ÜZERİNDE KİRACILI SATILIK BİNA,25000000,Osmanağa,,,5.0,,Kombi (Doğalgaz),11-15,,,,Evet,
+167,KADIKÖY MERKEZ ANA CADDEDE KURUMSAL KİRACILI KOMPLE SATILIK BİNA,22000000,Osmanağa,,,5.0,,Kombi (Doğalgaz),21-25,,,,Evet,
+168,KADIKÖY RIHTIM CAD. OTEL RUHSATLI SATILIK 88 M² ARSA,7200000,Osmanağa,,,,,,,,Danışman,Arsa Tapulu,Evet,
+169,KADIKÖY RASİMPAŞA'DA 2+1 SATILIK DAİRE,2500000,Rasimpaşa,65.0,21.0,4.0,1,Kombi (Doğalgaz),31-35,Boş,,,Hayır,0.0
+170,"KADIKÖY, RASİMPAŞA'DA SATILIK DÜKKAN",3750000,Rasimpaşa,55.0,1.0,,,Yok,,,,,Evet,0.0
+171,KADIKÖY (Yeldeğirmeni) KARAKOLHANE CD.'de 80m2 SATILIK DÜKKAN..,6450000,Rasimpaşa,,3.0,,,Klima,,,,,Evet,0.0
+172,KADIKÖY RIHTIM'DA SATILIK KOMPLE SIFIR BİNA,24000000,Rasimpaşa,640.0,,6.0,,Kombi (Doğalgaz),0,Boş,Danışman,,Evet,
+173,MERKEZİ KONUMDA 120 M2 DÜKKAN,3000000,Rasimpaşa,102.0,2.0,4.0,Zemin Kat,Kombi (Doğalgaz),21-25,Kiracılı,Danışman,Kat Mülkiyeti,Evet,
+174,ANA CADDE ÜZERİNDE KİRACILI 450 M2 KOMPLE BİNA,25000000,Rasimpaşa,,,3.0,,Kombi (Doğalgaz),21-25,Kiracılı,Danışman,Kat Mülkiyeti,Evet,
+175,KADIKÖY YELDEĞİRMENİ CAFELER BÖLGESİNDE 30 M2 DÜKKAN,1500000,Rasimpaşa,26.0,1.0,4.0,Zemin Kat,Yok,26-30,Kiracılı,Danışman,Kat Mülkiyeti,Evet,
+176,KADIKÖY HALİTAĞA CADDESİ ÜZERİNDE 165 M2 KÖŞK,3750000,Rasimpaşa,140.0,41.0,3.0,,Kombi (Doğalgaz),40,Kiracılı,Danışman,Müstakil Parsel,Evet,
+177,KADIKÖY YELDEĞİRMENİ CAFELER BÖLGESİNDE 175 M2 DÜKKAN,4750000,Rasimpaşa,150.0,2.0,4.0,Zemin Kat,Kombi (Doğalgaz),21-25,Kiracılı,Danışman,Kat Mülkiyeti,Evet,
+178,KADIKÖY KARAKOLHANE CADDESİ'NDE KOMPLE SATILIK BİNA,32000000,Rasimpaşa,,,7.0,,Kombi (Doğalgaz),26-30,Boş,Danışman,,Evet,
+179,"Rasımpaşa'da ozel mobilyalı, bakımlı 3+1 satılık daire",3550000,Rasimpaşa,130.0,31.0,4.0,4,Kombi (Doğalgaz),31-35,Mülk,Danışman,Kat Mülkiyeti,Evet,15000.0
+180,KADIKÖY (Yeldeğirmeni) KARAKOLHANE CD.'de 80m2 SATILIK DÜKKAN..,6450000,Rasimpaşa,80.0,3.0,4.0,Zemin Kat,Klima,36-40,Boş,Danışman,Kat Mülkiyeti,Evet,
+181,MERKEZİ KONUMDA 20 M2 DÜKKAN,2000000,Rasimpaşa,17.0,1.0,4.0,Zemin Kat,Klima,26-30,Kiracılı,Danışman,Kat Mülkiyeti,Evet,
+182,KADIKÖY RIHTIM'DA SATILIK KOMPLE SIFIR BİNA,24000000,Rasimpaşa,,,6.0,,,,Boş,Danışman,,Evet,
+183,Kadıköy Rasimpaşa'da Özel Dekorlu Satılık Dükkan,1000000,Rasimpaşa,26.0,1.0,3.0,,Kombi (Doğalgaz),,,Danışman,Kat İrtifakı,Evet,0.0
+184,KADIKÖY'DE 300m2 İSKANLI DEPOLU KİRACIL KÖŞE BİNA SATILIK DÜKKAN,4250000,Rasimpaşa,240.0,4.0,5.0,Giriş Katı,Klima,,,Danışman,,Evet,5500.0
+185,KADIKÖY YELDEĞİRMENİ'NDE 5 KATLI SATILIK TARİHİ BİNA,14500000,Rasimpaşa,540.0,,5.0,,Yok,40,Boş,Danışman,,Evet,
+186,KADIKÖY'DE SATILIK 2+1 DAİRE,2500000,Rasimpaşa,80.0,21.0,,1,Kombi (Doğalgaz),31-35,Kiracılı,Danışman,Kat Mülkiyeti,Evet,
+187,ANA CADDE ÜZERİNDE 240 M2 DÜKKAN,5000000,Rasimpaşa,204.0,2.0,4.0,Zemin Kat,Kombi (Doğalgaz),6-10,Kiracılı,Danışman,Kat Mülkiyeti,Evet,
+188,KADIKÖY SÖĞÜTLÜ ÇEŞME CADDESİNE PARALEL 90 M2 DÜKKAN,2250000,Rasimpaşa,77.0,1.0,4.0,Zemin Kat,Kombi (Doğalgaz),21-25,Kiracılı,Danışman,Kat Mülkiyeti,Evet,
+189,Kadıköy Söğütlüçeşme Yakın Katta Tek İş Hanında Ofis,3750000,Rasimpaşa,,5.0,4.0,3,Kombi (Doğalgaz),21-25,Kiracılı,,,Evet,0.0
+190,KADIKÖY'DE 2.DERECE TARİHİ ESER SATILIK ARSA__TEK YETKİLİ'DEN,3250000,Rasimpaşa,,,,,,,,,Hisseli Tapu,Evet,
+191,KADIKÖYDE 2.DERECE TARİHİ ESER SATILIK ARSA TEK YETKİLİDEN,3000000,Rasimpaşa,,,,,,,,,Müstakil Parsel,Evet,
+192,Kadıköy Rıhtımı Gören 80 m2 Kısmi deniz manzaralı daire,2690000,Rasimpaşa,65.0,11.0,4.0,Kot 3,Kombi (Doğalgaz),31-35,Mülk,Danışman,Kat Mülkiyeti,Evet,14000.0
+193,KADIKÖY'DE YATIRIMLIK ACİLL SATILIK 3 KATLI DÜKKAN,5300000,Rasimpaşa,,,,,,,,,,Hayır,0.0
+194,NOVA'DAN YELDEĞİRMENİ'NDE YATIRIMLIK 2+1 FIRSAT DAİRE,2750000,Rasimpaşa,60.0,21.0,4.0,3,Kombi (Doğalgaz),26-30,,,Kat İrtifakı,Evet,0.0
+195,NOVA 'DAN KADIKÖY RIHTIM YAKININDA SATILIK OFİS,2675000,Rasimpaşa,,3.0,,3,Kombi (Doğalgaz),26-30,,,Kat İrtifakı,Evet,0.0
+196,"Koşuyolunda, Sıfır Binada, Deniz Ve Şehir Manzaralı 4+2",11000000,Koşuyolu,190.0,42.0,5.0,Çatı Katı,Kombi (Doğalgaz),0,Boş,,,Hayır,
+197,KOŞUYOLU ANA CADDEYE PARALEL BAHÇELİ OTOPARKLI DUBLEKS EV,20000000,Koşuyolu,150.0,42.0,2.0,Müstakil,Kombi (Doğalgaz),31-35,Kiracılı,,,Evet,0.0
+198,KOŞUYOLU MÜSTAKİLLERİNDE İSTER KONUT İSTER İŞYERİ,17000000,Koşuyolu,210.0,61.0,3.0,,Kombi (Doğalgaz),31-35,Kiracılı,,,Evet,0.0
+199,Koşuyolu Merkezi Konumda 465 m2 4+2 Satılık Müstakil Bina,19350000,Koşuyolu,420.0,42.0,3.0,Müstakil,Klima,21-25,Mülk,,,Evet,0.0
+200,KOŞUYOLU İBRAHİMAĞA HARİKA LOKASYON EMSALSİZ DÜKKAN,4200000,Koşuyolu,,2.0,,,Kombi (Doğalgaz),,,,,Evet,0.0
+201,Koşuyolunda Merkezi Konumda 145 m2 Arsalı  Müstakil Bahçeli Bina,10500000,Koşuyolu,110.0,21.0,1.0,2,Kombi (Doğalgaz),31-35,Boş,Danışman,Kat Mülkiyeti,Evet,0.0
+202,KOŞUYOLU İBRAHİMAĞA HARİKA LOKASYON EMSALSİZ DÜKKAN,4200000,Koşuyolu,110.0,2.0,5.0,Giriş Katı,Kombi (Doğalgaz),,Boş,,Kat İrtifakı,Evet,15000.0
+203,Koşuyolunda Merkezi Konumda 450 m2  4+2 Müstakil Bina,19350000,Koşuyolu,420.0,42.0,3.0,Komple,Kombi (Doğalgaz),21-25,Mülk,Danışman,Kat İrtifakı,Evet,0.0
+204,KOŞUYOLU MERKEZDE HER İŞ KOLUNA UYGUN MÜSTAKİL SATILIK,17000000,Koşuyolu,,,3.0,,Kombi (Doğalgaz),26-30,Kiracılı,,Kat Mülkiyeti,Evet,
+205,NAUTILUS AVM KARŞISI GİRİŞKAT İÇERİSİ YAPILI 2+1 95m² DAİRE,3250000,Koşuyolu,90.0,21.0,4.0,Yüksek Giriş,Kombi (Doğalgaz),21-25,Kiracılı,,,Evet,0.0
+206,ELYSİUM ELİT KOŞUYOLU'NDA 1+1 SÜPER LÜKS SATILIK RESİDENCE,9750000,Koşuyolu,60.0,11.0,6.0,3,Merkezi Sistem,4,Kiracılı,Danışman,Kat Mülkiyeti,Evet,
+207,Koşuyolu Caddesi'ne Paralel Yatırımlık Müstakil Ev,14500000,Koşuyolu,350.0,10.0,5.0,Müstakil,Kombi (Doğalgaz),31-35,Mülk,Danışman,Arsa Tapulu,Hayır,0.0
+208,"KOŞUYOLU'NDA EN GÜZEL KÖŞEDE, KÖŞE PARSEL OTOPARKLI VİLLA",17000000,Koşuyolu,260.0,71.0,3.0,Müstakil,Kombi (Doğalgaz),31-35,Boş,,,Evet,0.0
+209,KOŞUYOLU SATILIK DUBLEX,13000000,Koşuyolu,120.0,21.0,2.0,Müstakil,Kombi (Doğalgaz),31-35,Kiracılı,,,Evet,0.0
+210,KOŞUYOLU'NUN EN ÖZEL VİLLALARINDA BİRİ SATIŞA ÇIKTI KAÇIRMAYIN !,16000000,Koşuyolu,400.0,,,,,,,,,Evet,0.0
+211,"KOŞUYOLU'NDA 304m2 bahçeli,kotlu güney cepheli Müstakil",22000000,Koşuyolu,,,,3,Kombi (Doğalgaz),,,,,Evet,0.0
+212,SATILIK KOŞUYOLU MARMARİS BÜFE,255000,Koşuyolu,,,,,Kombi (Doğalgaz),6-10,,,,Hayır,
+213,KOŞUYOLU CADDESİNE 2. BİNA 265M2 BAHÇELİ MÜSTAKİL,19000000,Koşuyolu,,,,,,,,,,Evet,0.0
+214,MERT'TEN KOŞUYOLU MERKEZİ KONUMDA BAHÇELİ MÜSTAKİL EV,8860000,Koşuyolu,144.0,,1.0,,Kombi (Doğalgaz),31-35,Kiracılı,,,Evet,0.0
+215,"KADIKÖY OFTON PROJESİNDE 155M2 3,5+1 RECİDANCE",18000000,Koşuyolu,122.0,31.0,1020.0,12,Klima,4,Boş,,,Evet,0.0
+216,"KOŞUYOLU ELSYİUM ELİT OFTON PROJESİNDE 205M2 4,5+1 RECİDANCE",20000000,Koşuyolu,155.0,41.0,1020.0,7,Klima,4,Kiracılı,,,Evet,0.0
+217,Koşuyolu Elysium Elit Ofton da Köşe 1+1 Full beyaz eşyalı,6250000,Koşuyolu,45.0,11.0,8.0,4,Klima,4,Kiracılı,,,Evet,0.0
+218,KOŞUYOLU'NDA ÇİFT YOLA CEPHELİ OTOPARKLI 555m2 MÜSTAKİL,25000000,Koşuyolu,,,4.0,,Kombi (Doğalgaz),21-25,,,,Evet,
+219,KOŞUYOLU'NDA SOKAK KÖŞESİ YENİ OTOPARKLI 380M2 MÜSTAKİL BAHÇELİ,27000000,Koşuyolu,,,,3,Kombi (Doğalgaz),,,,,Evet,0.0
+220,KOŞUYOLU'NDA 512M2 ARSALI MÜSTAKİLİN 1/2 Sİ SATILIKTIR,9500000,Koşuyolu,256.0,,2.0,Müstakil,Kombi (Doğalgaz),31-35,Mülk,,,Evet,0.0
+221,KOŞUYOLU IŞIKLARA YAKIN 282M2 BAHÇELİ KÖŞE MÜSTAKİL,15500000,Koşuyolu,,,,2,Kombi (Doğalgaz),,,,,Evet,0.0
+222,KOŞUYOLU ANA CADDE ÜZERİNDE 200M2 SOKAK KÖŞESİ,11750000,Koşuyolu,,4.0,,,Kombi (Doğalgaz),,,,,Evet,0.0
+223,KOŞUYOLU MEDİPOL HASTANESİ KARŞISI 100M2 3+1,3700000,Koşuyolu,88.0,31.0,4.0,4,Merkezi Sistem,31-35,Kiracılı,,,Evet,0.0
+224,"GÖZTEPE ŞEHİR HASTANESİNE YAKIN,KOMBİLİ 3. KAT MASRAFSIZ .",3500000,Dumlupınar,115.0,31.0,6.0,3,Kombi (Doğalgaz),31-35,Kiracılı,,Kat İrtifakı,Evet,0.0
+225,Fikirtepe Torkam Projesin de Ebeveyn Banyolu Satılık 2+1 Daire,4500000,Dumlupınar,80.0,21.0,20.0,3,Merkezi Sistem (Isı Payı Ölçer),0,Boş,,,Evet,0.0
+226,Fikirtepe Kiptaş Torkam Projesin de Satılık 2+1 Daire,4800000,Dumlupınar,80.0,21.0,20.0,13,Merkezi Sistem (Isı Payı Ölçer),0,Boş,,,Evet,0.0
+227,Fikirtepe Kiptaş Torkam projesin de Satılık 2+1 daire,4500000,Dumlupınar,80.0,21.0,20.0,5,Merkezi Sistem (Isı Payı Ölçer),0,Boş,,,Evet,0.0
+228,RESİM'DEN YENİTEPE KADIKÖY'DE 1+1 PEYZAJ CEPHELİ SATILIK DAİRE,3400000,Dumlupınar,45.0,11.0,20.0,6,Klima,3,Kiracılı,,,Evet,0.0
+229,Fikirtepe Torkam Rezidans da Satılık 2+1,5000000,Dumlupınar,80.0,21.0,20.0,3,Merkezi Sistem (Isı Payı Ölçer),0,Boş,,,Evet,0.0
+230,Fikirtepe Torkam Projesinde Deniz Manzaralı,5250000,Dumlupınar,80.0,21.0,20.0,13,Merkezi Sistem (Isı Payı Ölçer),0,Boş,,,Evet,0.0
+231,Fikirtepe Torkam projesinde arakatta,4800000,Dumlupınar,80.0,21.0,20.0,5,Merkezi Sistem (Isı Payı Ölçer),0,Boş,,,Evet,0.0
+232,RESİM' DE NUHOĞLU KADIKÖY YENİTEPE 1+1 AKASYA MANZARALI DAİRE,3300000,Dumlupınar,45.0,11.0,20.0,20 ve üzeri,Klima,2,Kiracılı,,,Evet,0.0
+233,GÖZTEPE HASTANE YAKINI GÜNEY CEPHE ARA KAT YENİ BİNA 112M2 3+1,4850000,Dumlupınar,80.0,31.0,8.0,6,Merkezi Sistem (Isı Payı Ölçer),4,,Danışman,Kat İrtifakı,Evet,0.0
+234,GÖZTEPE METRO YANINDA PRESTİJLİ YENİ BİNADA 60M2 1+1,3000000,Dumlupınar,43.0,11.0,20.0,4,Merkezi Sistem (Isı Payı Ölçer),3,Kiracılı,Danışman,Kat Mülkiyeti,Evet,8000.0
+235,Fikirtepe Torkam sitesinde 1+1 yeni bina oturulmamış,3500000,Dumlupınar,50.0,11.0,1020.0,11,Fancoil,1,Boş,,,Evet,0.0
+236,BAYSAŞ İSTANBUL 216 1.ETAP 2+1 VATANDAŞLIĞA UYGUN FIRSAT DAİRE,4114000,Dumlupınar,70.0,21.0,20.0,14,Merkezi Sistem (Isı Payı Ölçer),6-10,Mülk,,,Evet,0.0
+237,"NUHOĞLU YENİTEPE RESIDENCE, 1.ETAP, 1+1, 45m2 NET",3450000,Dumlupınar,45.0,11.0,20.0,6,Klima,4,Kiracılı,,,Evet,0.0
+238,"TEKNİK YAPI UPLİFE, TAPUSU HAZIR, 3/2 HİSSESİ SATILIK, 1+1",1725000,Dumlupınar,45.0,11.0,20.0,20 ve üzeri,Klima,0,Boş,,,Hayır,0.0
+239,KADIKÖY FİKİRTEPE BAYSAŞ 216 1.ETAP DA 2+1 SATILIK DAİRE,4250000,Dumlupınar,65.0,,,,,,,,,Evet,0.0
+240,Fikirtepe'de hızlı değer artışına sahip Teknik Yapı Uplife 1+1,2575000,Dumlupınar,40.0,,,,,,,,,Evet,0.0
+241,ARTVİN EMLAK'TAN GÖZTEPE HASTANESİ VE PAZAR GİRİŞİ 40M2,5750000,Dumlupınar,,1.0,,,Merkezi Sistem,,,,,Evet,0.0
+242,Göztepe Şehir Hastanesi Yakınında 2+1 Balkonlu,3350000,Dumlupınar,80.0,21.0,9.0,1,Kombi (Doğalgaz),4,Boş,Danışman,Kat İrtifakı,Evet,
+243,KADIKÖY EVİNPARK RESIDENCE SATILIK DENİZ MANZARALI 2+1 DAİRE,4350000,Fikirtepe,66.0,21.0,20.0,10,Klima,2,Mülk,,,Evet,0.0
+244,ALYA LİFE RESİDENCE PROJESİNDE 1+1 BOŞ OTURUMA HAZIR 71 m2,3370000,Fikirtepe,43.0,11.0,1020.0,10,Merkezi Sistem (Isı Payı Ölçer),4,Boş,,,Evet,0.0
+245,Yenitepe Evim Kadıköy Residence Yüzme Havuz Güvenlik Satılık 2+1,4700000,Fikirtepe,88.0,21.0,20.0,5,Merkezi Sistem (Isı Payı Ölçer),6-10,Kiracılı,,,Evet,0.0
+246,Kadıköy Fikirtepe'de Satılık Rezidans,4190000,Fikirtepe,62.0,21.0,20.0,19,Klima,4,Kiracılı,Danışman,Kat Mülkiyeti,Evet,10000.0
+247,Kadıköy Fikirtepe'de Satılık Rezidans,3190000,Fikirtepe,43.0,11.0,20.0,18,Klima,4,Kiracılı,Danışman,Kat Mülkiyeti,Evet,7500.0
+248,Fikirtepe Alyalife Projesinde Satılık Geniş Balkonlu geniş 3+1,8500000,Fikirtepe,140.0,31.0,20.0,6,Klima,4,Boş,,,Evet,0.0
+249,Fikirtepe Şua'da Ebeveyn Banyolu Kapalı Mutfak 92 m2 net Boş,6400000,Fikirtepe,92.0,21.0,20.0,12,Merkezi Sistem (Isı Payı Ölçer),3,Boş,,,Evet,0.0
+250,Fikirtepe Şua'da Hiç Kullanılmamış Net 92 m2 Kapalı Mutfak Boş,6550000,Fikirtepe,92.0,21.0,20.0,14,Merkezi Sistem (Isı Payı Ölçer),3,Boş,,,Evet,0.0
+251,Sea View 3+1 Investment in Kadıköy *TURKISH CITIZENSHIP,7250000,Fikirtepe,137.0,31.0,20.0,14,Merkezi Sistem (Isı Payı Ölçer),0,Boş,,Kat İrtifakı,Evet,0.0
+252,RESİM' DEN ŞUA ELİT CONCEPT 2+1 137 M2 BALKONLU KAPALI MUTFAK,4950000,Fikirtepe,92.0,21.0,20.0,17,Merkezi Sistem (Isı Payı Ölçer),3,Kiracılı,,,Evet,0.0
+253,FİKİRTEPE DE HARİKA KONUMDA TİCARİ ADA DA SÜPER YATIRIMLIK ARSA,3000000,Fikirtepe,,,,,,,,,Hisseli Tapu,Hayır,
+254,Residence For Sale In Istanbul Citizenship and Permit Residence,8500000,Fikirtepe,67.0,21.0,20.0,5,Klima,0,Boş,,,Evet,0.0
+255,RESİM' DEN ŞUA ELİT CONCEPT 2+1 KAPALI MUTFAK BALKONLU DAİRE,5000000,Fikirtepe,92.0,21.0,20.0,18,Merkezi Sistem (Isı Payı Ölçer),3,Kiracılı,,,Evet,0.0
+256,Optimist'de Güncel Büyük Tip 1+1,2770000,Fikirtepe,55.0,11.0,20.0,2,Merkezi Sistem (Isı Payı Ölçer),2,Boş,,Kat Mülkiyeti,Evet,12000.0
+257,"Fikirtepe Şua'da 92 m2 Net 2,5 +1 Balkonlu Daire",6550000,Fikirtepe,92.0,21.0,20.0,14,Merkezi Sistem (Isı Payı Ölçer),3,Boş,Danışman,Kat Mülkiyeti,Evet,0.0
+258,Fikirtepe Nuhoğlu Yeditepe'de 2+1 Satılık Residance,5200000,Fikirtepe,96.0,21.0,20.0,6,Merkezi Sistem (Isı Payı Ölçer),4,Boş,,,Evet,0.0
+259,MERDİVENKÖY OPTİMİST PROJESİNDE ŞEHİR MANZARALI KEYİFLİ 88M2 1+1,3100000,Fikirtepe,47.0,11.0,20.0,18,Kombi (Doğalgaz),1,Kiracılı,Danışman,Kat Mülkiyeti,Evet,0.0
+260,FİKİRTEPE EVİNPARK KADIKÖY SATILIK 2+1 EN GENİŞ DAİRE,4300000,Fikirtepe,70.0,21.0,20.0,4,Klima,1,Boş,,,Evet,0.0
+261,FORTİS SİNANLI KADIKÖY'DE 1+0 SATILIK DAİRE,2500000,Fikirtepe,38.0,10.0,20.0,12,Yerden Isıtma,1,Kiracılı,,,Evet,0.0
+262,"FIRKITEPE'NİN EN KARLI YATIRIMI, SATILIK LÜKS A+REZİDANS KOMPLEX",11010330,Fikirtepe,98.0,21.0,20.0,5,Yerden Isıtma,1,Boş,İnşaat,Kat Mülkiyeti,Hayır,
+263,"PIRLANTA GÖZTEPE RESIDENCE, 90m2 NET, 2+1, BALKON TERASLI DAİRE",4950000,Fikirtepe,90.0,21.0,20.0,1,Klima,4,Kiracılı,,,Evet,0.0
+264,OPTİMİST RESİDENCE SATILIK DENİZ MANZARALI 3+1 LÜKS DAİRE,6050000,Fikirtepe,115.0,31.0,20.0,3,Merkezi Sistem (Isı Payı Ölçer),0,Kiracılı,,,Evet,0.0
+265,"MİNA TOWERS PROJESİNDE, 150m2, EBEVEYN BANYOLU, 3+1,LUX REZİDANS",10750000,Fikirtepe,100.0,31.0,20.0,20 ve üzeri,Klima,0,Boş,,,Hayır,0.0
+266,"MİNA TOWER'S PROJEDEN, TAPUSU HAZIR,1+1 BÜYÜK TİP, LUX RESIDENCE",3650000,Fikirtepe,58.0,11.0,20.0,5,Klima,0,Boş,,,Hayır,0.0
+267,"THE MANDARİNS ACIBADEM, 1+1 'BOŞ' REZİDANS DAİRE",3150000,Fikirtepe,45.0,11.0,20.0,13,Klima,4,Boş,,,Evet,0.0
+268,KADIKÖY EVİNPARK FIRSAT 4+1 SATILIK LÜKS DAİRE,12750000,Fikirtepe,153.0,,,,,,,,,Evet,0.0
+269,SUNA ÇAKMAK'TAN FİKİRTEPE MİNA TOWERS'TA SATILIK 3+1 RESIDENCE,8540000,Fikirtepe,101.0,31.0,20.0,16,Klima,0,Boş,,,Evet,0.0
+270,SUNA ÇAKMAK'TAN FİKİRTEPE MİNA TOWERS'TA SATILIK 1+1 RESIDENCE,3550000,Fikirtepe,40.0,11.0,20.0,12,Klima,0,Boş,,,Evet,0.0
+271,SUNA ÇAKMAK'TAN FİKİRTEPE MİNA TOWERS'TA SATILIK 2+1 RESIDENCE,7505000,Fikirtepe,87.0,21.0,20.0,6,Klima,0,Boş,,,Evet,0.0
+272,GÖZTEPE PIRLANTA SİTESİNDE BÜYÜK TİP BALKONLU SATILIK 1+1,2500000,Fikirtepe,60.0,11.0,20.0,4,Merkezi Sistem (Isı Payı Ölçer),4,Kiracılı,,,Evet,0.0
+273,Kentsel dönüşüm proje alanında daire,1770000,Fikirtepe,90.0,21.0,3.0,2,Soba (Kömür),31-35,Kiracılı,,,Hayır,0.0
+274,USTA 1071 KADIKÖY İNŞAATTA SATILIK 3+1 YÜKSEK KATTA BOŞ DAİRE,5490000,Fikirtepe,102.0,31.0,20.0,20 ve üzeri,Klima,4,Boş,,,Evet,0.0
+275,Kadıköy satılık bina minibüs yolunda kiracılı işmerkezi,48500000,Eğitim,,,10.0,,Kombi (Doğalgaz),16-20,Kiracılı,Danışman,,Evet,
+276,MERKEZİ KONUMDA 225 M2 DÜKKAN,2750000,Eğitim,192.0,3.0,4.0,Zemin Kat,Kombi (Doğalgaz),6-10,Kiracılı,Danışman,Kat Mülkiyeti,Evet,
+277,FAHRETTİN KERİM GÖKAY CADDESİ ÜZERİNDE 1100 M2 KOMPLE BİNA,15000000,Eğitim,,,7.0,,Kombi (Doğalgaz),16-20,Kiracılı,Danışman,Kat Mülkiyeti,Evet,
+278,RESİM 'den KENTPLUS KADIKÖY 3+1 TERASLI 220 m² SATILIK DAİRE,9000000,Eğitim,160.0,31.0,20.0,20 ve üzeri,Klima,6-10,Kiracılı,,,Evet,0.0
+279,"SATILIK, Muhteşem konumda, Yatırımlık, 3+1, Kent Plus yanı,",3100000,Eğitim,110.0,31.0,,,,,,,,Hayır,
+280,2+1 Yeni Sıfır Ziverbey Müjdat Gezen KarşısıCaddeye 2. Bina,3795000,Eğitim,70.0,21.0,8.0,7,Kombi (Doğalgaz),0,Boş,,,Evet,0.0
+281,YAŞAR EMLAK'TAN KENT PLUS KADIKÖY 1 + 0 SATILIK RESİDİNCE DAİRE,2100000,Eğitim,40.0,10.0,20.0,4,Klima,2,Mülk,,,Evet,0.0
+282,Kadıköy Kuyubaşı Satılık Dükkan  220m2 Toplam Asma Katlı,5800000,Eğitim,210.0,3.0,8.0,Zemin Kat,Merkezi Sistem,26-30,Kiracılı,Danışman,,Hayır,9500.0
+283,Hasanpaşa Hızırbey Caddesi Üzerinde Satılık Eşyalı Ofis,2175000,Eğitim,,2.0,,2,Merkezi Sistem (Isı Payı Ölçer),6-10,Boş,Danışman,Kat Mülkiyeti,Evet,0.0
+284,KADIKÖY MERKEZDE GENİŞ KULLANIŞLI 4+1 SATILIK DAİRE,2800000,Eğitim,120.0,41.0,4.0,4,Kombi (Doğalgaz),31-35,Kiracılı,Danışman,Kat Mülkiyeti,Evet,
+285,Dinamik'ten Eğitim Mahallesinde Minibüs Caddesine 4.Bina Dublex,4250000,Eğitim,120.0,22.0,7.0,7,Kombi (Doğalgaz),26-30,Mülk,,,Evet,0.0
+286,Göztepe de Eğitim Araştırma Hastane yanı satılık 3+1 daire..,4450000,Eğitim,120.0,31.0,9.0,2,Kombi (Doğalgaz),26-30,Kiracılı,,,Evet,0.0
+287,Kuyubaşı Eğitim Mahallesi'nde Mükemmel Konumda 3+1,4100000,Eğitim,101.0,31.0,8.0,5,Merkezi Sistem,31-35,Boş,Danışman,Kat Mülkiyeti,Evet,8500.0
+288,YATIRIMLIK KOMPLE SATILIK BİNA,12950000,Eğitim,,,,,,,,,,Hayır,
+289,Kadıköy Eğitim Mah Postane Sokak Daire 2+1 Satılık,2800000,Eğitim,70.0,21.0,3.0,1,Kombi (Doğalgaz),16-20,Kiracılı,Danışman,Kat Mülkiyeti,Evet,
+290,REMAX İNCİ'DEN KADIKÖY EĞİTİM MAHALLESİNDE SATILIK DÜKKAN,5700000,Eğitim,96.0,1.0,8.0,Zemin Kat,Merkezi Sistem,26-30,Kiracılı,Danışman,Kat Mülkiyeti,Evet,
+291,GÖZTEPE VATANDAŞLIĞA UYGUN 3+1 AÇIK OTOPARKLI FIRSAT DAİRE,4349000,Eğitim,120.0,31.0,8.0,7,Klima,21-25,Mülk,,,Evet,0.0
+292,"KENTPLUS'TA ,KİRACISIZ 1+0 DAİRE (FİYAT 2 HAFTA GEÇERLİDİR)",2050000,Eğitim,40.0,10.0,20.0,4,Klima,2,Mülk,,,Evet,0.0
+293,"KENTPLUS KADIKÖYDE METROBÜSE YAKIN ARA KAT 2+1 , 4.000.000 TL",4000000,Eğitim,70.0,21.0,20.0,8,Merkezi Sistem (Isı Payı Ölçer),4,Kiracılı,,,Evet,0.0
+294,GÖZTEPE MİNİBÜS CADDESİNE YAKIN HASTANE KARŞISINDA SATILIK 2+1,3000000,Eğitim,100.0,21.0,3.0,3,Merkezi Sistem,31-35,Kiracılı,,,Hayır,0.0
+295,KADIKÖY FİKİRTEPEDE 19.KAT MUHTEŞEM MANZARA 136m2 REZİDANS 3+1,6150000,Eğitim,136.0,31.0,20.0,19,Merkezi Sistem (Isı Payı Ölçer),0,Boş,,Kat Mülkiyeti,Evet,1.0
+296,ARTVİN EMLAK'TAN MİNİBÜSE 2. PARALELDE 140 M2 3+1 MASRAFSIZ,4050000,Eğitim,120.0,,,,,,,,,Evet,0.0
+297,Feneryolu Özgürlük Parkı Karşı Sokak İçinde Kombili İskanlı,5350000,Feneryolu,75.0,21.0,1020.0,2,Kombi (Doğalgaz),4,Kiracılı,,,Evet,0.0
+298,GÖZTEPE MİNİBBÜSE YAKIN 28 m2 YENİ DÜKKAN KOMBİLİ MUTFAKLI-WC'Lİ,2100000,Feneryolu,28.0,2.0,9.0,Giriş Katı,Kombi (Doğalgaz),1,Mülk,Danışman,,Evet,0.0
+299,FENERYOLU DR.MUHİT TÜMERKAN SOKAKTA 200 M2 DAİRE,6750000,Feneryolu,160.0,41.0,7.0,3,Merkezi Sistem,26-30,Kiracılı,Danışman,Kat Mülkiyeti,Evet,
+300,MERKEZİ KONUMDA 35 M2 DÜKKAN,2000000,Feneryolu,30.0,1.0,9.0,Zemin Kat,Merkezi Sistem,21-25,Kiracılı,Danışman,Kat Mülkiyeti,Evet,
+301,ÖZGÜRLÜK PARKINDA 145M2 ÖZEL GÜVENLİKLİ BALKONLU MANZARALI LÜKS,5600000,Feneryolu,115.0,31.0,1020.0,11,Merkezi Sistem (Isı Payı Ölçer),26-30,Mülk,Danışman,Kat Mülkiyeti,Evet,
+302,Feneryolu' nda içi tamamen yenilenmiş 3+1 satılık daire..,3275000,Feneryolu,110.0,31.0,4.0,Giriş Katı,Kombi (Doğalgaz),31-35,Boş,,,Evet,0.0
+303,ERENKÖY BAĞDATA YAKIN 155M2 BALKONLU ASANSÖR OTOPARKLI,7450000,Feneryolu,135.0,31.0,9.0,,Merkezi Sistem,26-30,Kiracılı,Danışman,Kat Mülkiyeti,Evet,
+304,FENERYOLU'NDA 3 YILLIK İSKANLI 200m2 TERASLI DUBLEKS SATILIK 3+1,8500000,Feneryolu,160.0,31.0,9.0,9,Kombi (Doğalgaz),3,Boş,Danışman,Kat Mülkiyeti,Evet,25000.0
+305,Feneryolu Yazıcıbaşı Sokak Kamelya'ya Yakın 4+1 Daire,12500000,Feneryolu,173.0,41.0,8.0,3,Kombi (Doğalgaz),11-15,Boş,,,Evet,0.0
+306,Feneryolu Bağdat Caddesi Üzerinde Tabela Değerli Ofis,12000000,Feneryolu,,5.0,4.0,2,Merkezi Sistem,36-40,Kiracılı,,,Evet,0.0
+307,.HASTANE KARŞISI CADDE ÜZERİ SIFIR 150M2 İŞYERİNE KONUTA,6200000,Feneryolu,110.0,31.0,9.0,1,Kombi (Doğalgaz),0,Boş,Danışman,Kat Mülkiyeti,Evet,
+308,Kadıköy Feneryolu'da Satılık Daire,6950000,Feneryolu,130.0,31.0,10.0,3,Merkezi Sistem,26-30,Boş,Danışman,Kat Mülkiyeti,Evet,17000.0
+309,Kadıköy Feneryolu'da Satılık Dükkan / Mağaza,4390000,Feneryolu,120.0,1.0,6.0,Zemin Kat,Merkezi Sistem,36-40,Kiracılı,Danışman,Kat Mülkiyeti,Evet,6000.0
+310,Feneryolu Bağdat Caddesi 2. Bina Geniş Balkonlu 3+1,5000000,Feneryolu,102.0,31.0,7.0,5,Merkezi Sistem,31-35,Kiracılı,,,Evet,0.0
+311,Bağdat Caddesine 3.Binada Deniz Manzaralı 3+1 Daire EMLAK MASASI,6950000,Feneryolu,130.0,31.0,1020.0,11,Merkezi Sistem,31-35,Boş,Danışman,Kat Mülkiyeti,Evet,
+312,DİNAMİK'TEN  FENERYOLUN'DA DENİZ  MANZARALI 2+1 SATILIK DAİRE,5250000,Feneryolu,80.0,21.0,1020.0,12,Merkezi Sistem (Isı Payı Ölçer),2,Boş,,Kat Mülkiyeti,Evet,0.0
+313,SELAMİÇEŞME BAĞDAT CADDESİNE İKİNCİ BİNADA 110 M2 DÜKKAN,7000000,Feneryolu,94.0,1.0,1020.0,Zemin Kat,Merkezi Sistem,21-25,Kiracılı,Danışman,Kat Mülkiyeti,Evet,
+314,Feneryolu'nda Bağdat Caddesi'ne Çok Yakın Balkonlu 2+1 Daire,2650000,Feneryolu,65.0,21.0,3.0,1,Combi Boiler (Natural Gas),Between,Occupied,Agent,Construction Servitude,Yes,0.0
+315,F.YOLU BAĞDATA 2. BİNADA 170M2 3 BALKONLU ULTRA LÜKS,6950000,Feneryolu,140.0,41.0,4.0,2,Kombi (Doğalgaz),40,Boş,Danışman,Kat Mülkiyeti,Evet,
+316,FENERYOLUNDA PARKA YAKIN SIFIRLANMIŞ 125 M2 BALKONLU,6450000,Feneryolu,125.0,31.0,9.0,4,Merkezi Sistem (Isı Payı Ölçer),26-30,Boş,Danışman,Kat Mülkiyeti,Evet,0.0
+317,OZZ TEAM' DEN FENERYOLUNDA ADA MUTFAKLI 3+1 DAİRE,6700000,Feneryolu,85.0,,8.0,4,Klima,4,Mülk,,,Evet,0.0
+318,OZZ TEAM' DEN FENERYOLUNDA SATILIK 3+1 DAİRE YENİ BİNA,5600000,Feneryolu,85.0,,8.0,4,Klima,4,Mülk,,,Evet,0.0
+319,FENERYOLUNDA TREN -MİNİBÜS ARASINDA KİRACILI KOMBİLİ,4500000,Feneryolu,70.0,21.0,8.0,5,Kombi (Doğalgaz),3,Kiracılı,Danışman,Kat Mülkiyeti,Evet,14000.0
+320,FENERYOLU ÖZGÜRLÜK PARKINA YAKIN 155M2 ÇİFT BALKONLU ULTRA LÜKS,6450000,Feneryolu,130.0,31.0,7.0,4,Merkezi Sistem (Isı Payı Ölçer),31-35,Boş,Danışman,Kat Mülkiyeti,Evet,
+321,Feneryolu'nda merkezi konumda yepyeni 200 m2 4+1 dublex daire,8950000,Feneryolu,160.0,41.0,7.0,7,Kombi (Doğalgaz),4,Mülk,,,Evet,0.0
+322,Kadıköy Feneryolu'nda Satılık 3+1 Daire Nezih Apt Otoparklı,4850000,Feneryolu,120.0,31.0,6.0,1,Merkezi Sistem (Isı Payı Ölçer),26-30,Mülk,Danışman,,Evet,
+323,Feneryolu Kameriyede Bağdat Caddesine Yakın  3+1 Balkonlu Daire,5195000,Feneryolu,115.0,31.0,7.0,1,Merkezi Sistem,31-35,,,Kat Mülkiyeti,Evet,0.0
+324,Feneryolunda Bağdat Caddesine 4.Binada 3+1 Masrafsız Daire,6150000,Feneryolu,120.0,31.0,8.0,5,Merkezi Sistem,31-35,Kiracılı,Danışman,Kat Mülkiyeti,Evet,0.0
+325,Feneryolu Bağdat Caddesine Yakın Yeni Binada 4+1 Dubleks Daire,11500000,Feneryolu,145.0,41.0,1020.0,11,Kombi (Doğalgaz),3,,,Kat Mülkiyeti,Evet,0.0
+326,FENERYOLU'NDA YATIRIMLIK KOMPLE YENİLENMİŞ 3+1 KÖŞE DAİRE,6600000,Feneryolu,120.0,31.0,4.0,1,Kombi (Doğalgaz),31-35,Kiracılı,,,Evet,0.0
+327,FAHRETTİN KERİM GÖKAY CADDESİ ÜZERİNDE KİRACILI 450 M2 DÜKKAN,40000000,Feneryolu,383.0,2.0,8.0,Zemin Kat,Kombi (Doğalgaz),11-15,Kiracılı,Danışman,,Evet,
+328,ANA CADDE ÜZERİNDE 30 M2 DÜKKAN,6000000,Feneryolu,26.0,2.0,5.0,Zemin Kat,Merkezi Sistem,26-30,Kiracılı,Danışman,Kat Mülkiyeti,Evet,
+329,Feneryolunda Marmaraya Yakın Konumda Yeni Binada 3+1 Daire,6100000,Feneryolu,95.0,31.0,1020.0,3,Kombi (Doğalgaz),4,Mülk,Danışman,Kat Mülkiyeti,Evet,0.0
+330,Feneryolunda Bağdat Caddesine Yakın 3+1 Komple Yenilenmiş Daire,6950000,Feneryolu,115.0,31.0,9.0,3,Merkezi Sistem,26-30,Boş,Danışman,Kat Mülkiyeti,Evet,0.0
+331,Feneryolu Kameriyede Bağdat Caddesine Yakın 3+1 Lüks Daire,6450000,Feneryolu,130.0,31.0,7.0,4,Merkezi Sistem (Isı Payı Ölçer),26-30,Boş,Danışman,Kat Mülkiyeti,Evet,0.0
+332,Feneryolunda Marmaraya Yakın 3+1 Mimari Dekorlu Daire,6500000,Feneryolu,120.0,31.0,9.0,9,Merkezi Sistem (Isı Payı Ölçer),31-35,Kiracılı,Danışman,Kat Mülkiyeti,Evet,0.0
+333,Feneryolu Güvenlikli Site İçerisinde 4+1 Deniz Manzaralı Daire,16950000,Feneryolu,175.0,41.0,1020.0,16,Merkezi Sistem (Isı Payı Ölçer),21-25,Boş,Danışman,Kat Mülkiyeti,Evet,0.0
+334,Feneryolunda Bağdat Caddesine 3.Binada 4+1 Mimari Dekorlu Daire,6950000,Feneryolu,140.0,41.0,4.0,2,Kombi (Doğalgaz),31-35,Boş,,Kat Mülkiyeti,Evet,0.0
+335,Feneryolunda Özgürlük Parkına Yakın 3+1 Balkonlu Sıfır Daire,6650000,Feneryolu,100.0,31.0,1020.0,11,Kombi (Doğalgaz),2,Boş,Danışman,Kat Mülkiyeti,Evet,0.0
+336,Feneryolunda Marmaraya Yakın Katta Tek 4+1 Yenilenmiş Daire,6550000,Feneryolu,140.0,41.0,1020.0,9,Kombi (Doğalgaz),26-30,Boş,Danışman,Kat Mülkiyeti,Evet,0.0
+337,Feneryolunda Genç Binada 120 m2 Net 3+1 Yenilenmiş Daire,6600000,Feneryolu,120.0,31.0,9.0,8,Merkezi Sistem,26-30,Boş,Danışman,Kat Mülkiyeti,Evet,0.0
+338,Feneryolunda Özgürlük Parkı Manzaralı 3+1 Balkonlu Daire,5600000,Feneryolu,115.0,31.0,1020.0,11,Merkezi Sistem (Isı Payı Ölçer),26-30,Mülk,Danışman,Kat Mülkiyeti,Evet,0.0
+339,Feneryolunda Marmaraya Yakın Sıfır Binada 3+1 Daire EMLAK MASASI,5500000,Feneryolu,95.0,31.0,7.0,3,Kombi (Doğalgaz),0,Boş,Danışman,Kat Mülkiyeti,Evet,0.0
+340,Kızıltoprak Bağdat Caddesi 2. Bina Sıfır Balkonlu,8100000,Feneryolu,90.0,31.0,1020.0,6,Kombi (Doğalgaz),0,Boş,,,Evet,0.0
+341,Feneryolu Minibüs Caddesi Üzeri İşyerine Uygun 3+1 Sıfır Daire,6200000,Feneryolu,110.0,31.0,9.0,1,Kombi (Doğalgaz),0,Boş,Danışman,Kat Mülkiyeti,Evet,0.0
+342,FENERYOLUN'DA MARMARAYA YAKIN 115 M2 3+1 BAHÇE KATI İÇİ YAPILI Y,2695000,Feneryolu,95.0,31.0,3.0,Bahçe katı,Kombi (Doğalgaz),36-40,Kiracılı,,,Evet,0.0
+343,GÖZTEPE FAHRETTİN KERİM GÖKAY CADDESİ ÜZERİNDE 140 M2 DÜKKAN,18750000,Feneryolu,119.0,3.0,9.0,Zemin Kat,Kombi (Doğalgaz),11-15,Kiracılı,Danışman,,Evet,0.0
+344,FOUR WINDS DAİRELERİ SİZİNLE - KADIKÖY - CADDEBOSTAN - MUHTEŞEM,22699000,Feneryolu,77.0,21.0,20.0,16,Güneş Enerjisi,1,Boş,,Arsa Tapulu,Hayır,0.0
+345,Ziverbey Minibüs Yoluna Cephe 4+2 230 m2 geniş daire,7200000,Feneryolu,170.0,42.0,8.0,2,Merkezi Sistem,16-20,Boş,,,Evet,0.0
+346,Ziverbey Minibüs Yoluna Cephe 230 m2 Geniş Ofis Katı,7200000,Feneryolu,,,,2,Merkezi Sistem,,,,,Evet,0.0
+347,FENERYOLU ÖZGÜRLÜK PARKINA YÜRÜME MESAFESİNDE 3+1 SATILIK DAİRE,5450000,Feneryolu,120.0,31.0,,,,,,,,Hayır,
+348,Feneryolu Kombili Balkonlu 3+1 Satılık Daire,4950000,Feneryolu,110.0,31.0,8.0,3,Kombi (Doğalgaz),21-25,Kiracılı,,,Evet,0.0
+349,Feneryolu Kamelya Marmaray İstasyonuna Yakın Balkonlu Yenilenmiş,6550000,Feneryolu,128.0,41.0,1020.0,9,Merkezi Sistem,26-30,Boş,,,Evet,0.0
+350,CITY TEK YETKİLİ FENERYOLU ÖZGÜRLÜĞE KOMŞU KATTA TEK 168M2 3+1,5650000,Feneryolu,120.0,31.0,8.0,1,Klima,26-30,Kiracılı,Danışman,Kat Mülkiyeti,Evet,0.0
+351,F.YOLU ÖZGÜRLÜK PARKINA YAKIN 170M2 KATTA TEK ULTRA LÜKS,6550000,Feneryolu,140.0,41.0,1020.0,9,Merkezi Sistem (Isı Payı Ölçer),26-30,Boş,Danışman,Kat Mülkiyeti,Evet,
+352,KUYUBAŞI'NDA 170M2 2 BALKONLU ASANSÖRLÜ OTOPARKLI,4500000,Feneryolu,135.0,31.0,7.0,6,Merkezi Sistem,31-35,Kiracılı,Danışman,Kat Mülkiyeti,Evet,
+353,"TEKYETKİLİ,FENERYOLU BAĞDATA 2. SOK, 260M2, 3+2,DUBLEKS, 6 YILLI",12000000,Feneryolu,200.0,32.0,8.0,8,Kombi (Doğalgaz),6-10,Mülk,Danışman,Kat Mülkiyeti,Evet,
+354,FENERYOLU ÖZGÜRLÜK PARKINA KOMŞU EBEVEYNLİ SIFIR 120M2 3+1,7350000,Feneryolu,86.0,31.0,1020.0,10,Merkezi Sistem (Isı Payı Ölçer),0,Boş,Danışman,Kat İrtifakı,Hayır,0.0
+355,FENERYOLU ÖZGÜRLÜĞE KOMŞU BALKONLU EBEVEYNLİ 120M2 3+1,6850000,Feneryolu,86.0,31.0,1020.0,Yüksek Giriş,Merkezi Sistem (Isı Payı Ölçer),0,Boş,Danışman,Kat İrtifakı,Hayır,0.0
+356,ZİVERBEY MİNİBÜS ÜZERİ BALKONLU DEPREM RAPORLU 175M2 3+1,5950000,Feneryolu,125.0,31.0,1020.0,7,Merkezi Sistem,26-30,,Danışman,Kat Mülkiyeti,Evet,0.0
+357,KUYUBAŞI FAHRETTİN KERİM GÖKAY CADDESİ ÜZERİNDE 80 M2 DÜKKAN,14750000,Feneryolu,68.0,1.0,,Zemin Kat,Merkezi Sistem,21-25,Kiracılı,Danışman,Kat Mülkiyeti,Evet,
+358,Feneryolu Balkonlu Masrafsız Lüx 3+1 Satılık Güney Daire,6600000,Feneryolu,117.0,31.0,9.0,8,Kombi (Doğalgaz),21-25,Boş,,,Evet,0.0
+359,CİTYDEN..FENERYOLU ÖZGÜRLÜK PARKINA YAKIN 140M2 3+1 YENİ,7150000,Feneryolu,105.0,31.0,8.0,7,Merkezi Sistem (Isı Payı Ölçer),0,Boş,,Kat Mülkiyeti,Evet,0.0
+360,"FENERYOLU,ÖZGÜRLÜK PARKI,YAKIN,GENİŞ,ARA KAT,BALKONLU,150M2,3+1",5250000,Feneryolu,110.0,31.0,8.0,3,Kombi (Doğalgaz),21-25,Kiracılı,Danışman,Kat Mülkiyeti,Evet,
+361,DİNAMİK'TEN FENERYOLU MİNİBÜS CADDESİNDE ÖN CEPHE 110M2 NET 3+1,6150000,Feneryolu,110.0,31.0,8.0,1,Kombi (Doğalgaz),0,Boş,,,Evet,0.0
+362,"ÖZGÜRLÜK PARKI KARŞ.FENERYOLU, GÜVENLİKLİ,FULL YAPILI,140M2,3+1",5450000,Feneryolu,100.0,31.0,1020.0,11,Merkezi Sistem (Isı Payı Ölçer),26-30,Mülk,Danışman,Kat Mülkiyeti,Evet,
+363,SUADİYE EMİN ALİ PAŞADA MÜSTAKİL BAHÇELİ YENİ BİNADA 140M2 2+1,4250000,Feneryolu,100.0,21.0,3.0,Bahçe katı,Kombi (Doğalgaz),3,Boş,Danışman,Kat Mülkiyeti,Evet,0.0
+364,"FENERYOLUNDA 12 YILLIK, 170M2,3+1+GİYİNME ODALI VE FULL YAPILI",9995000,Feneryolu,130.0,31.0,9.0,7,Kombi (Doğalgaz),11-15,Boş,Danışman,Kat Mülkiyeti,Evet,
+365,FENERYOLU ÖZGÜRLÜKTE EMSAL DIŞI 5 YILLIK BALKONLU GENİŞ DAİRE,5300000,Feneryolu,85.0,21.0,8.0,5,Kombi (Doğalgaz),5,,,Kat Mülkiyeti,Evet,0.0
+366,FENERYOLUNDA 3+1 FIRSAT DAİRE,3600000,Feneryolu,120.0,31.0,8.0,2,Merkezi Sistem,31-35,Kiracılı,,,Evet,0.0
+367,CİTY'DEN FENERYOLUNDA ÖZGÜRLÜK PARKINA ADIM MESAFEDE SIFIR 1+1,4450000,Feneryolu,45.0,11.0,10.0,10,Kombi (Doğalgaz),0,Boş,Danışman,Kat Mülkiyeti,Evet,0.0
+368,CİTY'DEN FENERYOLU'NDA SIFIR 200M2 3+2 BALKONLU,8500000,Feneryolu,150.0,32.0,7.0,7,Kombi (Doğalgaz),0,Boş,Danışman,Kat İrtifakı,Evet,0.0
+369,DİNAMİK'TEN FENERYOLUN'DA CADDEYE YAKIN GENİŞ 4+1,8350000,Feneryolu,170.0,41.0,7.0,2,Klima,6-10,Mülk,,,Evet,0.0
+370,FENERYOLU MARMARAY VE BAĞDATA ADIM MESAFEDE YENİ 112M2 3+1,6250000,Feneryolu,80.0,31.0,1020.0,3,Merkezi Sistem (Isı Payı Ölçer),3,Boş,Danışman,Kat Mülkiyeti,Evet,0.0
+371,Feneryolu Özgürlük Parkına Marmaraya Yürüeme Mesafesinde,5900000,Feneryolu,93.0,31.0,1020.0,13,Merkezi Sistem (Isı Payı Ölçer),0,Boş,,,Evet,0.0
+372,Feneryolu marmaraya yakın geniş 3+1 masrafsız yenilenmiş,6950000,Feneryolu,135.0,31.0,1020.0,9,Klima,31-35,Boş,,,Evet,0.0
+373,Feneryolu'nda marmaray ve bağdat caddesine yakın 4+1,6950000,Feneryolu,140.0,41.0,5.0,2,Kombi (Doğalgaz),31-35,Boş,,,Hayır,0.0
+374,Feneryolu bağdatcaddeye 1nci paralel 2+1 inşaatı devam eden,5500000,Feneryolu,75.0,21.0,1020.0,4,Kombi (Doğalgaz),0,Boş,,,Evet,0.0
+375,Feneryolu Balkonlu Kombili 3+1 Satılık Daire,5000000,Feneryolu,122.0,31.0,7.0,6,Kombi (Doğalgaz),21-25,Mülk,,,Evet,0.0
+376,FENERYOLU İSMAİL SELÇUK'TAN YENİ BİNADA ULAŞIM NOKTALARINA YAKIN,3750000,Feneryolu,58.0,21.0,1020.0,2,Klima,3,Kiracılı,,,Evet,0.0
+377,Feneryolu Bağdat Caddesi Marmaray Yakın Masrafsız Full Yapılı,9250000,Feneryolu,148.0,31.0,7.0,3,Kombi (Doğalgaz),21-25,Mülk,,,Evet,0.0
+378,DİNAMİK'TEN FENERYOLUN'DA PARKA YAKIN ÖNÜ AÇIK MANZARALI 3+1,6650000,Feneryolu,100.0,31.0,1020.0,11,Kombi (Doğalgaz),3,Boş,,,Evet,0.0
+379,Kadıköy Feneryolu Mah. Satılık 4+1 Ultra LÜks Dubleks Daire,13000000,Feneryolu,190.0,41.0,1020.0,,Merkezi Sistem (Isı Payı Ölçer),3,Kiracılı,İnşaat,Kat Mülkiyeti,Evet,
+380,SELAMİÇEŞME BAĞDAT CAD. 2. BİNA.. DENİZ MANZARALI GENİŞ FERAH..!,10000000,Feneryolu,145.0,41.0,1020.0,12,Merkezi Sistem,31-35,Kiracılı,,,Evet,0.0
+381,FENERYOLU GİZER SİTESİNDE SATILIK DUBLEKS,12000000,Feneryolu,200.0,32.0,10.0,10,Klima,6-10,Mülk,,,Evet,0.0
+382,FENERYOLUNDA KAÇIRILMAYACAK DENİZ MANZARALI YENİ GENİŞ DUBLEKS,10200000,Feneryolu,200.0,41.0,9.0,9,Kombi (Doğalgaz),6-10,Kiracılı,,,Evet,0.0
+383,KADIKÖY FENERYOLU'UNDA SATILIK 5+1 GİRİŞ DUBLEKS DAİRE,13200000,Feneryolu,205.0,51.0,8.0,Giriş Katı,Klima,11-15,Kiracılı,,,Evet,0.0
+384,"OTURUMA HAZIR.. BAKIMLI, BALKONLU, GENİŞ FERAH BAĞDAT CAD.2 BİNA",12500000,Feneryolu,145.0,41.0,1020.0,8,Merkezi Sistem,31-35,Boş,,,Evet,0.0
+385,"Feneryolun'da Yeşillikler İçinde, Güney Cephe 3+1 Satılık Daire",6100000,Feneryolu,95.0,31.0,9.0,3,Kombi (Doğalgaz),6-10,Mülk,,,Evet,0.0
+386,KIZILTOPRAK BAĞDAT CADDESİ'NE YAKIN SIFIR 90M2 3+1 SATILIK DAİRE,7250000,Feneryolu,90.0,31.0,1020.0,6,Klima,0,Boş,,,Evet,0.0
+387,Feneryolu Satılık Daire,3750000,Feneryolu,90.0,21.0,9.0,6,Merkezi Sistem,31-35,Mülk,,,Evet,0.0
+388,FENERYOLU YATIRIMLIK 3+1 DAİRE,3800000,Feneryolu,90.0,31.0,4.0,1,Merkezi Sistem,31-35,Boş,,,Evet,0.0
+389,Feneryolu'nda yatırımlık geniş 3+1,5500000,Feneryolu,114.0,31.0,10.0,10,Merkezi Sistem,31-35,Mülk,,,Evet,0.0
+390,FENERYOLUNDA BAĞDATA 1. PARALEL SOKAKTA 155 M2 4+1 LÜKS DAİRE,6950000,Feneryolu,130.0,41.0,4.0,2,Klima,31-35,Boş,,,Hayır,0.0
+391,KALAMIŞ MARİNA MANZARALI 3+1 130m2 NET 2 BALKONLU YATIRIMLIK,6950000,Feneryolu,130.0,31.0,1020.0,11,Klima,26-30,Boş,,,Evet,0.0
+392,OPTİMA'DAN FENERYOLU BAĞDAT CADDESİNE YAKIN RENÖVE EDİLMİŞ 4+1,6950000,Feneryolu,140.0,41.0,4.0,2,Klima,31-35,Boş,,,Evet,0.0
+393,MUHTEŞEM KONUMDA ŞAHANE DAİRE  İSKANLI OTOPARKLI ARAKATTA 4+1,12500000,Feneryolu,150.0,41.0,8.0,4,Kombi (Doğalgaz),11-15,Boş,,Kat Mülkiyeti,Evet,30000.0
+394,Bağdat Caddesinde SATILIK Aydınlık Ferah 3+1 DAİRE,7500000,Feneryolu,120.0,,,,,,,,,Evet,0.0
+395,KW Banu dan Kızıltoprak İstasyon cad. geniş 1+1,6000000,Feneryolu,54.0,,,,,,,,,Evet,0.0
+396,FENERYOLU 235 m2 4+1 DUBLEKS SATILIK DAİRE,5950000,Feneryolu,185.0,41.0,7.0,2,Merkezi Sistem,31-35,Boş,,,Evet,0.0
+397,"ÖZGÜRLÜK PARKINA YAKIN, YENİ BİNADA,SATILIK, GENİŞ 3+1 DAİRE",6800000,Feneryolu,107.0,31.0,1020.0,5,Kombi (Doğalgaz),3,Kiracılı,,,Evet,0.0
+398,FENERYOLU'NDA DENİZ GÖREN KATTA TEK 4+1 140m2 NET BALKONLU,6950000,Feneryolu,140.0,41.0,1020.0,9,Kombi (Doğalgaz),26-30,Boş,,,Evet,0.0
+399,OPTİMA'DAN FENERYOLU'NDA 150 M² 3+1 EBEVEYN BANYOLU BALKONLU,6950000,Feneryolu,125.0,31.0,10.0,3,Merkezi Sistem,26-30,Boş,,,Evet,0.0
+400,ÖZGÜRLÜK PARKI MARMARAYA YAKIN SIFIR 140M2 3+1 SATILIK DAİRE,6650000,Feneryolu,110.0,31.0,8.0,7,Klima,0,Boş,,,Evet,0.0
+401,TRENDHOME ALTUNEL'DEN PRESTİJLİ BİNADA 3 + 1 HAVUZLU-E.BANYOLU,12500000,Feneryolu,110.0,31.0,1020.0,2,Klima,6-10,Kiracılı,,,Evet,0.0
+402,FENERYOLU MARMARAYA YAKIN 140M2 3+1 BALKONLU İÇİ YENİLENMİŞ,5195000,Feneryolu,115.0,31.0,7.0,1,Klima,31-35,Mülk,,,Evet,0.0
+403,TRENDHOME ALTUNEL'DEN FENERYOLU'NDA FIRSAT 3+1 145M2,5700000,Feneryolu,115.0,31.0,1020.0,11,Merkezi Sistem (Isı Payı Ölçer),26-30,Mülk,,,Hayır,0.0
+404,FENERYOLU ÖZGÜRLÜK PARKINA YAKIN 130M2 3+1 İSKANLI BOŞ DAİRE,6500000,Feneryolu,100.0,31.0,1020.0,11,Klima,2,Boş,,,Evet,0.0
+405,ZİVERBEY MİNİBÜS CAD.ÜZERİNDE 135M2 3+1 KOMBİLİ İŞYERİ KİRACILI,5700000,Feneryolu,105.0,31.0,5.0,3,Kombi (Doğalgaz),26-30,Kiracılı,,,Evet,0.0
+406,FENERYOLU MARMARAYA YAKIN 115 m2 2+1 GENİŞ BALKONLU BAKIMLI,3450000,Feneryolu,95.0,21.0,4.0,1,Merkezi Sistem,26-30,Kiracılı,,,Evet,0.0
+407,Feneryolunda süper manzaralı sıfır binada 3+1 fırsatı,9500000,Feneryolu,100.0,31.0,1020.0,12,Klima,0,Boş,,,Evet,0.0
+408,"FENERYOLUNDA BALKONLU,EBEYVENLİ NET 140 m2 SÜPER LÜKS 4+1",6950000,Feneryolu,140.0,41.0,1020.0,9,Merkezi Sistem,26-30,,,,Evet,18000.0
+409,OPTİAM'DAN FENERYOLU'NDA GENİŞ 150m2 3+1 BALKONLU EBEVEYNLİ DAİR,6950000,Feneryolu,130.0,31.0,,3,Merkezi Sistem,36-40,Boş,,,Hayır,
+410,Feneryolu Marmaraya Komşu Bağdat'a 100m. Balkonlu Satılık 2+1,3200000,Feneryolu,80.0,21.0,3.0,3,Merkezi Sistem,36-40,Kiracılı,Danışman,Kat Mülkiyeti,Evet,0.0
+411,ARTVİN EMLAK'TAN 2+1 75M2 BALKONLU SIFIR,5000000,Feneryolu,75.0,,,,,,,,,Evet,0.0
+412,BAĞDAT CAD'NE PARALEL CUMHUR SOKAK'TA BALKONLU 3+1 SATILIK DAİRE,4650000,Zühtüpaşa,93.0,31.0,6.0,3,Klima,26-30,Kiracılı,Danışman,Kat Mülkiyeti,Evet,0.0
+413,Kadiköy Zühtüpaşa'da Genç Binada 3 Cepheli 2+1 Daire,4150000,Zühtüpaşa,80.0,21.0,8.0,5,Klima,6-10,Boş,,,Evet,0.0
+414,"KIZILTOPRAK, ZÜHTÜPAŞA MAH. SATILIK 2+1 SIFIR DAİRE 5.000.000 TL",5000000,Zühtüpaşa,65.0,21.0,1020.0,3,Kombi (Doğalgaz),0,Boş,Danışman,Kat İrtifakı,Evet,
+415,"KIZILTOPRAK, ZÜHTÜPAŞA MH SATILIK 2.5+1 SIFIR DAİRE 5.000.000 TL",5000000,Zühtüpaşa,65.0,21.0,1020.0,3,Kombi (Doğalgaz),0,Boş,,,Evet,0.0
+416,CENTURY21'DEN BAĞDAT CAD ÇOK YAKIN YENİ BİNADA 2+1 SATILIK,4550000,Zühtüpaşa,75.0,21.0,8.0,2,Klima,2,Kiracılı,,,Hayır,0.0
+417,Kızıltoprak Bağdat Caddesi Yakın Satılık 2+1 Daire,3900000,Zühtüpaşa,73.0,21.0,1020.0,8,Kombi (Doğalgaz),3,Kiracılı,,,Evet,0.0
+418,6736 Rengarenk'ten Zühtüpaşa'da 3 Daireli 2 Dükkanlı İmara açıkı,16000000,Zühtüpaşa,3.0,,4.0,,Kombi (Doğalgaz),26-30,,,,Evet,
+419,"SATILIK, Bağdat Caddeye Cepheli, 2 Bölüm, muhteşem konumda.",3500000,Zühtüpaşa,,,,,,,,,,Hayır,
+420,Zühtüpaşa Mahallesi' nde Bahçe Kullanımlı 2+1 Satılık Daire,3150000,Zühtüpaşa,65.0,,5.0,Bahçe katı,Merkezi Sistem,31-35,Mülk,,,Evet,0.0
+421,OZZ TEAM' DEN ZÜHTÜPAŞA' DA DÖNÜŞÜM POTANSİYELLİ SATILIK 2+1,4300000,Zühtüpaşa,75.0,,4.0,1,Kombi (Doğalgaz),31-35,Kiracılı,,,Evet,0.0
+422,Kızıltoprak Fenerbahçe Stat Karşısı Marmaray Metrobüs Yakın,4500000,Zühtüpaşa,92.0,31.0,5.0,5,Merkezi Sistem,26-30,Kiracılı,,,Evet,0.0
+423,BAĞDAT CADDESİNDE 3 KATLI DÜKKAN & MAĞAZA,13950000,Zühtüpaşa,200.0,,5.0,,Kombi (Doğalgaz),31-35,Kiracılı,,Kat Mülkiyeti,Evet,0.0
+424,Ziverbeyde Deprem Raporlu Binada 3+1 Mimari Dekorlu Daire,5950000,Zühtüpaşa,125.0,31.0,1020.0,7,Kombi (Doğalgaz),31-35,Boş,Danışman,Kat Mülkiyeti,Evet,0.0
+425,Kızıltoprakta Bağdat Caddesine  Yakın Yeni Binada 2+1 Daire,3750000,Zühtüpaşa,75.0,21.0,1020.0,8,Kombi (Doğalgaz),3,Kiracılı,Danışman,Kat Mülkiyeti,Evet,0.0
+426,Kızıltoprakta Deniz Manzaralı 4+1 Dubleks  Daire EMLAK MASASI,7250000,Zühtüpaşa,155.0,41.0,9.0,9,Merkezi Sistem (Isı Payı Ölçer),31-35,Boş,Danışman,Kat Mülkiyeti,Evet,0.0
+427,Ziverbeyde Minibüs Caddesine 2.Binada 3+1 Daire EMLAK MASASI,5250000,Zühtüpaşa,120.0,31.0,1020.0,6,Kombi (Doğalgaz),31-35,Kiracılı,Danışman,Kat Mülkiyeti,Evet,0.0
+428,Kızıltoprakta Sahile Yakın 2+1 Balkonlu Daire EMLAK MASASI,3895000,Zühtüpaşa,75.0,21.0,3.0,2,Kombi (Doğalgaz),31-35,Kiracılı,Danışman,Kat Mülkiyeti,Evet,0.0
+429,Kızıltoprakta Katta Tek 4+1 Kobili Daire,9800000,Zühtüpaşa,128.0,41.0,9.0,8,Kombi (Doğalgaz),6-10,Mülk,,,Evet,0.0
+430,FENERYOLU MARMARAY VE MİNİBÜS ARASI EBEVEYNLİ 180M2 3+1,6950000,Zühtüpaşa,130.0,31.0,9.0,3,Merkezi Sistem,26-30,Boş,Danışman,Kat Mülkiyeti,Evet,0.0
+431,Kadiköy Zühtüpaşa'da Genç Binada 3 Cepheli 2+1 Daire,4150000,Zühtüpaşa,80.0,21.0,,5,Kombi (Doğalgaz),6-10,Boş,Danışman,Kat Mülkiyeti,Evet,25000.0
+432,KALAMIŞ'TA PANORAMİK DENIZ MANZARALI TERASLI DUBLEKS,18750000,Zühtüpaşa,280.0,52.0,1020.0,10,Yerden Isıtma,4,Boş,Danışman,Kat Mülkiyeti,Evet,40000.0
+433,"KADIKÖY ZÜHTÜPAŞA' DA 3+1 120 M2, YENİ BOYALI KAÇIRILMAZ DAİRE",2580000,Zühtüpaşa,100.0,31.0,4.0,Bahçe katı,Merkezi Sistem,31-35,Kiracılı,Danışman,Kat Mülkiyeti,Evet,0.0
+434,fenerbahçe kalamış 2+1 yatırımlık daire,2850000,Zühtüpaşa,90.0,21.0,5.0,Giriş Katı,Kombi (Doğalgaz),31-35,Kiracılı,,,Evet,0.0
+435,Kızıltoprak Bağdat caddesine 1. paralel komple sıfır bina,34000000,Zühtüpaşa,,,3.0,,Kombi (Doğalgaz),0,Boş,Danışman,,Evet,
+436,Kadıköy Ziverbey'de Muhteşem Osmanlı Köşkü,105000000,Zühtüpaşa,1143.0,10.0,4.0,,Soba (Kömür),,Boş,Danışman,Kat Mülkiyeti,Evet,
+437,KIZILTOPRAK'TA GENİŞ BALKONLU 3+1 NET:120 m² SATILIK DAİRE!!,5900000,Zühtüpaşa,120.0,31.0,3.0,1,Kombi (Doğalgaz),31-35,Kiracılı,,,Hayır,0.0
+438,KIZILTOPRAK BAĞDAT CADDESİ ÜZERİNDE ACİL SATILIK DÜKKAN,6500000,Zühtüpaşa,,,,,,,,,,Evet,0.0
+439,KADIKÖY FENERBAHÇE KALAMIŞ MARİNA SATILIK MÜSTAKİL ŞİRKET BİNASI,33000000,Zühtüpaşa,,,4.0,,Kombi (Doğalgaz),31-35,Kiracılı,,Kat Mülkiyeti,Evet,
+440,"GENİŞ 2+1, SATILIK Kızıltoprak, Kadıköy",5950000,Zühtüpaşa,100.0,21.0,8.0,6,Kombi (Doğalgaz),1,,,Kat Mülkiyeti,Evet,15000.0
+441,Fenerbahçe Marinaya Yakın 3+1 Satılık Daire,13000000,Fenerbahçe,122.0,31.0,9.0,4,Merkezi Sistem (Isı Payı Ölçer),2,Kiracılı,,,Evet,0.0
+442,Fenerbahçe Marinay Yakın Site İçerisinde Satılık Teraslı Dubleks,16250000,Fenerbahçe,168.0,31.0,3.0,3,Kombi (Doğalgaz),11-15,Boş,,,Evet,0.0
+443,Feneryolu Bağdat Caddesi Üzerinde Otoparklı Binada Satılık,12000000,Fenerbahçe,135.0,,4.0,3,Merkezi Sistem,31-35,Kiracılı,,,Evet,
+444,"Yalı Parseli & Dalyan Sahil'de Deniz Manzaralı, 5. Kat 2+1 %",7295000,Fenerbahçe,65.0,21.0,1020.0,5,Kombi (Doğalgaz),4,Boş,,Kat Mülkiyeti,Evet,20000.0
+445,Fenerbahçe Wyndham Otel Yakın Balkonlu Katta Tek,11000000,Fenerbahçe,90.0,21.0,1020.0,10,Yerden Isıtma,2,Boş,,,Evet,0.0
+446,Kalamış Marina Manzaralı Teraslı Sıfır Dubleks Daire,28000000,Fenerbahçe,237.0,51.0,10.0,10,Merkezi Sistem (Isı Payı Ölçer),4,Boş,,,Evet,0.0
+447,Fenerbahçe Çamlık Parkına Yakın 4+1 Satılık Daire,15000000,Fenerbahçe,140.0,41.0,1020.0,13,Merkezi Sistem (Isı Payı Ölçer),3,Kiracılı,,,Evet,0.0
+448,Fenerbahçe Kapanmaz Deniz Marina Manzaralı Balkonlu 4+1 Sıfır,24000000,Fenerbahçe,145.0,41.0,8.0,7,Kombi (Doğalgaz),0,Boş,,,Evet,0.0
+449,BAĞDAT CADDESİ ÜZERİNDE 65 M2 DÜKKAN,9500000,Fenerbahçe,56.0,1.0,4.0,Zemin Kat,Merkezi Sistem,26-30,Kiracılı,Danışman,Kat Mülkiyeti,Evet,
+450,BAĞDAT CADDESİ ÜZERİNDE KİRACILI 120 M2 DÜKKAN,17500000,Fenerbahçe,102.0,3.0,4.0,Zemin Kat,Merkezi Sistem (Isı Payı Ölçer),26-30,Kiracılı,Danışman,Kat Mülkiyeti,Evet,
+451,BAĞDAT CADDESİ ÜZERİNDE 30 M2 DÜKKAN,8000000,Fenerbahçe,26.0,1.0,4.0,Zemin Kat,Merkezi Sistem,26-30,Kiracılı,Danışman,Kat Mülkiyeti,Evet,
+452,FENERBAHÇE MARİNA SİTE İÇERİSİNDE DENİZ MANZARALI SATILIK DAİRE,19750000,Fenerbahçe,220.0,41.0,3.0,1,Merkezi Sistem,21-25,Kiracılı,Danışman,Kat İrtifakı,Evet,
+453,Fenerbahçe Cemiltopuzlu Caddesi 3+1 Satılık Daire,15500000,Fenerbahçe,120.0,31.0,7.0,6,Kombi (Doğalgaz),6-10,Boş,,,Evet,0.0
+454,KALAMIŞ WYNDHAM OTELE YAKIN SIFIR 225M2 TERASLI DENİZ MANZARALI,17950000,Fenerbahçe,175.0,41.0,10.0,10,Kombi (Doğalgaz),0,Boş,Danışman,Kat Mülkiyeti,Evet,
+455,CenkCaddede Fenerbahçe Iğrıp Sokak Fırsat 1+1,5500000,Fenerbahçe,55.0,11.0,3.0,2,Kombi (Doğalgaz),11-15,,,Kat Mülkiyeti,Evet,0.0
+456,Fenerbahçe Deniz ve Marina Manzaralı Yatırımlık Satılık Daire,7500000,Fenerbahçe,137.0,31.0,1020.0,13,Merkezi Sistem,31-35,Mülk,,,Hayır,0.0
+457,GÖZTEPE BAĞDAT CADDESİNDE SATILIK DAİRE 3+1 İŞYERİ OFİS,8900000,Fenerbahçe,95.0,,4.0,3,Kombi (Doğalgaz),26-30,Kiracılı,Danışman,Kat Mülkiyeti,Evet,
+458,Fenerbahçe Ayanoğlu Bağdat Cad. Yakın Katta Tek Geniş Balkon,25000000,Fenerbahçe,200.0,41.0,9.0,9,Kombi (Doğalgaz),0,Boş,,,Evet,0.0
+459,KALAMIŞTA SATILIK EŞSİZ YALI DAİRESİ,22900000,Fenerbahçe,180.0,41.0,3.0,2,Kombi (Doğalgaz),40,Kiracılı,Danışman,Kat Mülkiyeti,Evet,
+460,Fenerbaheçe Kalamış Marinaya Kahve Dünyasına Yakın 3+1,11500000,Fenerbahçe,120.0,31.0,1020.0,6,Merkezi Sistem (Isı Payı Ölçer),6-10,Kiracılı,,,Evet,0.0
+461,Fenerbahçe Kahve Dünyası Sütiş Yakın Satılık Daire,9975000,Fenerbahçe,138.0,41.0,7.0,3,Merkezi Sistem,26-30,Kiracılı,,,Evet,0.0
+462,Fenerbahçe Starbucks Yakın Ön Kullanımlı Dükkan,5980000,Fenerbahçe,60.0,2.0,7.0,Giriş Katı,Kombi (Doğalgaz),6-10,Kiracılı,,,Evet,0.0
+463,KALAMIŞ SAHİLDE SATILIK EMSALSİZ 2 KATLI RESTORAN,59900000,Fenerbahçe,200.0,,,Bahçe katı,Kombi (Doğalgaz),40,Kiracılı,Danışman,Kat Mülkiyeti,Evet,
+464,FENERBAHÇE'DE SIFIR 3 BALKONLU 4 BANYOLU 9.KAT 250m2 SATILIK 4+1,25000000,Fenerbahçe,200.0,41.0,9.0,9,Kombi (Doğalgaz),0,Boş,Danışman,Kat Mülkiyeti,Evet,60000.0
+465,Fenerbahçe Sahilde Kapanmaz Deniz ve Adalar Manzaralı 3+1 Daire,17850000,Fenerbahçe,120.0,31.0,1020.0,9,Merkezi Sistem (Isı Payı Ölçer),26-30,Kiracılı,Danışman,Kat Mülkiyeti,Evet,
+466,Fenerbahçe Marinada Satılık Daire Havuzlu Güvenlikli Site İçi,26550000,Fenerbahçe,160.0,41.0,4.0,2,Merkezi Sistem (Isı Payı Ölçer),6-10,Boş,Danışman,Kat İrtifakı,Evet,
+467,Fenerbahçe Kalamış Marina Lebiderya Manzaralı 4+1,25000000,Fenerbahçe,175.0,41.0,1020.0,7,Merkezi Sistem (Isı Payı Ölçer),4,Kiracılı,,,Evet,0.0
+468,SELAMİÇEŞME BAĞDAT CADDESİ ÜZERİNDE 230 M2 OFİS,12000000,Fenerbahçe,,4.0,4.0,1,Kombi (Doğalgaz),21-25,Kiracılı,Danışman,Kat Mülkiyeti,Evet,
+469,Fenerbahçe Yeni Binada 3+2 Dubleks Satılık Daire,18400000,Fenerbahçe,200.0,32.0,8.0,8,Klima,4,Mülk,,,Evet,0.0
+470,KALAMIŞ WYNDHAM OTELE YAKIN SIFIR 135M2 2 BALKONLU LÜKS,10800000,Fenerbahçe,105.0,31.0,10.0,1,Kombi (Doğalgaz),0,Boş,Danışman,Kat Mülkiyeti,Evet,
+471,Fenerbahçe Kalamış Wyndham Otel Yakın Yüzme Havuzlu 4+1,11000000,Fenerbahçe,160.0,41.0,1020.0,10,Merkezi Sistem (Isı Payı Ölçer),21-25,Kiracılı,,,Evet,0.0
+472,Fenerbahçe Çamlık Parkına Cepheli Katta Tek,15500000,Fenerbahçe,135.0,31.0,1020.0,9,Kombi (Doğalgaz),4,Kiracılı,,,Evet,0.0
+473,ALKAYA-KALAMIŞ MARİNA 3+1 GENİŞ MUTFAKLI SATILIK DAİRE,11950000,Fenerbahçe,105.0,31.0,9.0,8,Klima,0,Boş,,,Hayır,0.0
+474,BAĞDAT CADDESİNE İKİNCİ BİNADA MERKEZİ KONUMLU 3+1 EŞYASZ SATILK,14300000,Fenerbahçe,145.0,31.0,4.0,4,Merkezi Sistem,16-20,Mülk,,,Evet,0.0
+475,FENERBAHÇE'DE SIFIR 125M2 EBEVEYN BANYOLU BALKONLU LÜKS,9650000,Fenerbahçe,95.0,31.0,9.0,7,Kombi (Doğalgaz),0,Boş,Danışman,Kat Mülkiyeti,Evet,
+476,OZZ TEAM' DEN BAĞDAT CADDESİNE CEPHE OFİS KULLANIMINA UYGUN 2+1,3500000,Fenerbahçe,74.0,,4.0,2,Kombi (Doğalgaz),31-35,Kiracılı,,,Evet,0.0
+477,FENERYOLU BAĞDAT CADDESİNDE KİRACILI 30 M2 DÜKKAN,3000000,Fenerbahçe,26.0,1.0,4.0,Zemin Kat,Merkezi Sistem,26-30,Kiracılı,Danışman,Kat Mülkiyeti,Evet,
+478,DALYAN DR.FARUK AYANOĞLU CADDESİ GİRİŞİNDE 15 M2 DÜKKAN,3000000,Fenerbahçe,13.0,1.0,1020.0,Zemin Kat,Merkezi Sistem (Isı Payı Ölçer),3,Kiracılı,Danışman,Kat Mülkiyeti,Evet,
+479,FENERYOLU BAĞDAT CADDESİNDE 70 M2 DÜKKAN,6000000,Fenerbahçe,60.0,1.0,4.0,Zemin Kat,Merkezi Sistem,21-25,Kiracılı,Danışman,Kat Mülkiyeti,Evet,
+480,SELAMİÇEŞME BAĞDAT CADDESİ ÜZERİ 160m2 İSKANLI 3.KAT SATILIK 3+1,7000000,Fenerbahçe,140.0,,4.0,3,Kombi (Doğalgaz),40,Mülk,Danışman,Kat Mülkiyeti,Evet,
+481,SELAMİÇEŞME IŞIKLAR'DA 3.KAT İSKANLI BALKONLU 160m2 SATILIK 3+1,7000000,Fenerbahçe,,4.0,4.0,3,Kombi (Doğalgaz),40,Mülk,Danışman,Kat Mülkiyeti,Evet,20000.0
+482,ALKAYA'DAN FENERBAHÇE DALYAN'DA SATILIK 125 m NET YENİ DAİRE,13950000,Fenerbahçe,125.0,31.0,9.0,5,Kombi (Doğalgaz),4,,,Kat Mülkiyeti,Evet,0.0
+483,F.BAHÇE 12 YILLIK GENÇ BİNADA 140M2 BALKONLU ULTRA LÜKS,9500000,Fenerbahçe,110.0,31.0,1020.0,5,Kombi (Doğalgaz),11-15,Boş,Danışman,Kat Mülkiyeti,Evet,
+484,Fenerbahçe Wyndham Otel karşısı Katta Tek Balkonlu,8000000,Fenerbahçe,130.0,41.0,6.0,4,Klima,26-30,Mülk,,,Hayır,0.0
+485,DALYAN SAHİLDE SIFIR 170M2  BALKONLU ULTRA  LÜKS,13500000,Fenerbahçe,135.0,31.0,1020.0,,Merkezi Sistem (Isı Payı Ölçer),0,Boş,Danışman,Kat Mülkiyeti,Evet,
+486,KALAMIŞ SAHİLDE SIFIR 190M2 GÜVENLİKLİ SİTE İÇİNDE 3 BALKONLU,16000000,Fenerbahçe,160.0,31.0,3.0,1,Kombi (Doğalgaz),0,Boş,Danışman,Kat Mülkiyeti,Evet,
+487,Fenerbahçe Ayanoğlu Ordu Evi Caddesi Üzerinde Dükkan,19750000,Fenerbahçe,95.0,2.0,1020.0,Giriş Katı,Kombi (Doğalgaz),3,Kiracılı,,,Evet,0.0
+488,ALKAYA-KALAMIŞ MARİNA 3+1 GENİŞ MUTFAKLI SATILIK DAİRE,11950000,Fenerbahçe,105.0,31.0,9.0,8,Kombi (Doğalgaz),0,Boş,,Kat İrtifakı,Evet,0.0
+489,Fenerbahçe Deniz - Marina ve Doğa Manzaralı Yüzme Havuzlu,63500000,Fenerbahçe,420.0,42.0,1020.0,13,Merkezi Sistem (Isı Payı Ölçer),0,Boş,,,Hayır,0.0
+490,KALAMIŞ SAHİLDE SIFIR 165M2 GÜVENLİKLİ SİTE İÇİNDE BAHÇE DUBLEKS,13500000,Fenerbahçe,140.0,31.0,3.0,Bahçe katı,Kombi (Doğalgaz),0,Boş,Danışman,Kat Mülkiyeti,Evet,
+491,Fenerbahçe Sahilde Katta Tek 4+1 Sıfır Daire EMLAK MASASI,25000000,Fenerbahçe,200.0,41.0,10.0,3,Kombi (Doğalgaz),0,Boş,Danışman,Kat Mülkiyeti,Evet,0.0
+492,Fenerbahçe Sahilde Orduevine Yakın Yeni Binada 3+1 Daire,12100000,Fenerbahçe,120.0,31.0,10.0,4,Kombi (Doğalgaz),6-10,Kiracılı,Danışman,Kat Mülkiyeti,Evet,0.0
+493,Fenerbahçe Bağdat Caddesine İlk Paralelde 5+2 Dubleks,16000000,Fenerbahçe,210.0,52.0,1020.0,12,Kombi (Doğalgaz),6-10,Mülk,Danışman,Kat Mülkiyeti,Evet,0.0
+494,SELAMİÇEŞME BAĞDAT CAD.ÜSTÜNDE 3.KAT İSKANLI 160m2 SATILIK 3+1,7000000,Fenerbahçe,140.0,31.0,4.0,3,Kombi (Doğalgaz),31-35,Mülk,Danışman,Kat Mülkiyeti,Evet,20000.0
+495,F.BAHÇE 4 YILLIK 160M2 KATTA TEK BALKONLU LÜKS,13950000,Fenerbahçe,125.0,31.0,1020.0,5,Kombi (Doğalgaz),4,Mülk,Danışman,Kat Mülkiyeti,Evet,
+496,Kalamış'ta 3+1 Deniz Manzaralı Satılık Daire,7000000,Fenerbahçe,110.0,31.0,3.0,3,Kombi (Doğalgaz),31-35,Mülk,,,Evet,0.0
+497,Fenerbahçe Ordu Evi Dalyan Sahil Kapalı Otoparklı Katta Tek,9200000,Fenerbahçe,110.0,31.0,10.0,7,Merkezi Sistem,21-25,Boş,,,Evet,0.0
+498,Fenerbahçe de muhteşem Deniz Manzaralı içi Komple Yenilenmiş,56200000,Fenerbahçe,310.0,42.0,4.0,4,Klima,6-10,Boş,,,Evet,0.0
+499,FENERBAHÇE YALI PARSELİ LEBİ DERYA MUHTEŞEM 7+3 SATILIK VİLLA,190000000,Fenerbahçe,720.0,73.0,3.0,Müstakil,Klima,6-10,Mülk,,,Evet,0.0
+500,FENERBAHCE YALI PARSELİ LEBİ DERYA MUHTEŞEM 5+2 520 M2,95000000,Fenerbahçe,350.0,52.0,3.0,Çatı Katı,Yerden Isıtma,5,Mülk,,,Evet,
+501,Fenerbahçe Kalamış Wyndham Otel Yakın Balkonlu 3+1 Satılık,8800000,Fenerbahçe,100.0,31.0,10.0,4,Kombi (Doğalgaz),6-10,Kiracılı,,,Evet,0.0
+502,Fenerbaheç Dalyan Yüzme Havuzlu Lebiderya Manzaralı Dubleks,30000000,Fenerbahçe,220.0,41.0,1020.0,16,Merkezi Sistem (Isı Payı Ölçer),0,Boş,,,Hayır,0.0
+503,KALAMIŞ CADDE ÜZERİ 105M2 BALKONLU KOMBİLİ ASANSÖR OTOPARKLI LUX,6295000,Fenerbahçe,80.0,21.0,3.0,2,Kombi (Doğalgaz),31-35,Boş,Danışman,Kat Mülkiyeti,Evet,
+504,Kalamış Deniz ve Marina Manzaralı Teraslı Sıfır Dubleks,16000000,Fenerbahçe,200.0,52.0,9.0,9,Kombi (Doğalgaz),3,Boş,,,Evet,0.0
+505,FENER KALAMIŞ CADDESİ ÜZERİNDE KİRACILI 300 M2 MAĞAZA,25000000,Fenerbahçe,255.0,2.0,5.0,Zemin Kat,Merkezi Sistem,16-20,Kiracılı,Danışman,,Evet,
+506,ANA CADDE ÜZERİNDE BANKA KİRACILI 420 M2 DÜKKAN,25000000,Fenerbahçe,357.0,2.0,7.0,Zemin Kat,Kombi (Doğalgaz),11-15,Kiracılı,Danışman,,Evet,
+507,SELAMİÇEŞME BAĞDAT CADDESİ ÜZERİNDE 35 M2 DÜKKAN,7500000,Fenerbahçe,30.0,,4.0,,Merkezi Sistem,21-25,Kiracılı,Danışman,,Evet,
+508,FENERBAHÇE DOKTOR FARUK AYANOĞLU CADDESİ ÜZERİNDE 40 M2 DÜKKAN,4000000,Fenerbahçe,34.0,1.0,1020.0,Zemin Kat,Merkezi Sistem (Isı Payı Ölçer),2,Kiracılı,Danışman,,Evet,
+509,FENERYOLU BAĞDAT CADDESİ ÜZERİNDE 220 M2 DÜKKAN,17500000,Fenerbahçe,187.0,4.0,4.0,Zemin Kat,Klima,26-30,Kiracılı,Danışman,,Evet,
+510,Kalamışta Kapanmaz Marina ve Deniz Manzaralı 3+1 Sıfır Daire,30000000,Fenerbahçe,145.0,31.0,1020.0,12,Merkezi Sistem (Isı Payı Ölçer),0,Boş,Danışman,Kat Mülkiyeti,Evet,0.0
+511,Fenerbahçede Bağdat Caddesine 2.Binada 3+1 Balkonlu Sıfır Daire,9650000,Fenerbahçe,95.0,31.0,9.0,7,Kombi (Doğalgaz),0,Boş,Danışman,Kat Mülkiyeti,Evet,0.0
+512,Fener Kalmış Caddesi Üzerinde işyerine Uygun  2+1 Lüks Daire,6295000,Fenerbahçe,85.0,21.0,3.0,2,Kombi (Doğalgaz),31-35,Boş,Danışman,Kat Mülkiyeti,Evet,0.0
+513,Çiftehavuzlar Sahilde Deprem Yönetmelikli Binada 4+1 Daire,13950000,Fenerbahçe,170.0,41.0,1020.0,10,Kombi (Doğalgaz),21-25,Kiracılı,Danışman,Kat Mülkiyeti,Evet,0.0
+514,Fenerbahçe Cemil Topuzlu Üzerinde  Yeni Binada 4+1 Daire,14500000,Fenerbahçe,145.0,41.0,7.0,3,Kombi (Doğalgaz),5,,,Kat Mülkiyeti,Evet,0.0
+515,Fenerbahçe Sahil Tarafında Yeni Binada 3+1 Balkonlu Daire,9500000,Fenerbahçe,110.0,31.0,1020.0,5,Kombi (Doğalgaz),11-15,Boş,Danışman,Kat Mülkiyeti,Evet,0.0
+516,Fenerbahçe Sahilde Yeni Binada Katta Tek 3+1 Balkonlu Daire,13950000,Fenerbahçe,125.0,31.0,9.0,5,Kombi (Doğalgaz),5,,,Kat Mülkiyeti,Evet,0.0
+517,Fenerbahçe Cemil Topuzlu Caddesinde Yeni Binada 3+1 Daire,11950000,Fenerbahçe,110.0,31.0,8.0,4,Kombi (Doğalgaz),11-15,Boş,Danışman,Kat Mülkiyeti,Evet,0.0
+518,ÇİFTEHAVUZLAR BAĞDAT CADDESİ ÜZERİNDE 330 M2 DÜKKAN,40000000,Fenerbahçe,281.0,2.0,4.0,Zemin Kat,Merkezi Sistem,26-30,Kiracılı,Danışman,,Evet,0.0
+519,FENER KALAMIŞ CADDESİ BÜYÜK FENERBAHÇE AP.DENİZ MANZARALI DAİRE,15750000,Fenerbahçe,121.0,31.0,1020.0,8,Klima,26-30,Kiracılı,Danışman,Kat Mülkiyeti,Evet,30000.0
+520,WEN CADDEDEN FENERBAHÇEDE 2 BALKONLU SIFIR YENİ BİNA SATILIK 3+1,7550000,Fenerbahçe,110.0,31.0,1020.0,8,Klima,0,Boş,Danışman,Kat İrtifakı,Evet,0.0
+521,Fenerbahçe Dalyanda Deniz Manzaralı 3+1 Daire EMLAK MASASI,11500000,Fenerbahçe,110.0,31.0,8.0,4,Kombi (Doğalgaz),16-20,Boş,Danışman,Kat Mülkiyeti,Evet,0.0
+522,Çiftehavuzlar Sahilde  3+1 Sıfır Balkonlu  Daire EMLAK MASASI,13500000,Fenerbahçe,130.0,31.0,1020.0,2,Kombi (Doğalgaz),0,Boş,Danışman,Kat Mülkiyeti,Evet,0.0
+523,KW SİNAN'DAN KALAMIŞ SAHİL PARSELİNDE MANZARALI SATILIK DAİRE,21000000,Fenerbahçe,277.0,61.0,3.0,3,Kombi (Doğalgaz),26-30,Mülk,,,Evet,
+524,Çiftehavuzlar 18 Mart'a Yakın 3+1 Yeni Binada Satılık Daire,8800000,Fenerbahçe,105.0,31.0,1020.0,2,Merkezi Sistem (Isı Payı Ölçer),3,Boş,,,Evet,0.0
+525,Fenerbahçe'de Sütişe Kahve Dünyasına Yakın Teraslı Dubleks,14000000,Fenerbahçe,190.0,51.0,8.0,8,Kombi (Doğalgaz),4,Mülk,,,Evet,0.0
+526,Fenerbahçede Kalamış Marinaya Yakın 3+1 Sıfır Daire EMLAK MASASI,10800000,Fenerbahçe,105.0,31.0,9.0,1,Kombi (Doğalgaz),0,Boş,Danışman,Kat İrtifakı,Evet,0.0
+527,Fenerbahçede Sahile 5.Binada  3+1  Havuzlu Daire EMLAK MASASI,12550000,Fenerbahçe,100.0,31.0,20.0,11,Yerden Isıtma,1,Boş,Danışman,Kat Mülkiyeti,Evet,0.0
+528,ALKAYA-KIZILTOPRAKTA SATILIK 2. DERECE TARİHİ ESER MÜSTAKİL EV,11124000,Fenerbahçe,72.0,44.0,3.0,3,,40,Boş,Danışman,Arsa Tapulu,Hayır,
+529,Fenerbahçe Dalyan Yüzme Havuzlu Güvenlikli Teraslı Dubleks,18000000,Fenerbahçe,180.0,41.0,7.0,7,Kombi (Doğalgaz),0,Boş,,,Evet,0.0
+530,Fenerbahçe Cemiltopuzlu Dalyan Denize Yakın Satılık,8900000,Fenerbahçe,98.0,21.0,7.0,1,Kombi (Doğalgaz),4,Kiracılı,,,Evet,0.0
+531,Fenerbahçe Kalamış Wyndham Otel ve Marinaya Yakın Ofise Uygun,6295000,Fenerbahçe,90.0,,4.0,3,Kombi (Doğalgaz),31-35,Boş,,,Evet,
+532,Fenerbahçe Dalyan Lebiderya Manzaralı Dubleks Daire,21950000,Fenerbahçe,197.0,42.0,1020.0,13,Merkezi Sistem (Isı Payı Ölçer),2,Mülk,,,Evet,0.0
+533,Fenerbahçe Ordu Evine 4. Bina Balkonlu Prestijli Bina,15000000,Fenerbahçe,120.0,31.0,1020.0,7,Merkezi Sistem (Isı Payı Ölçer),4,Kiracılı,,,Evet,0.0
+534,Kadiköy Bağdad Caddesin'de1+1 Lüks daire فروشی لاکچری جاده بغداد,6000000,Fenerbahçe,50.0,11.0,4.0,3,Kombi (Doğalgaz),0,Boş,Danışman,Kat İrtifakı,Hayır,12000.0
+535,Fenerbahçe Kalamış Marina ve Doğa Manzaralı Balkonlu 4+1,16750000,Fenerbahçe,142.0,41.0,1020.0,5,Merkezi Sistem (Isı Payı Ölçer),3,Kiracılı,,,Evet,0.0
+536,Kalamış Bedri Rahmi Eyüpoğlu Sokak da yeni binada Satılık Daire,16000000,Fenerbahçe,175.0,31.0,1020.0,13,Kombi (Doğalgaz),0,Boş,,,Evet,
+537,Fenerbahçe Sahil Caddesi Balkonlu Deniz ve Doğa Manzaralı,19000000,Fenerbahçe,120.0,31.0,8.0,5,Yerden Isıtma,0,Boş,,,Evet,0.0
+538,FENERBAHÇE SAHİLDE BUTİK BİNADA CADDE ÜZERİ BALKONLU 119M2 2+1,6295000,Fenerbahçe,85.0,21.0,4.0,3,Kombi (Doğalgaz),31-35,Boş,Danışman,Kat Mülkiyeti,Evet,0.0
+539,CİTY TEK YETKİLİ KALAMIŞ PARKINDA DEPREM SONRASI 205 M2 3+1,13200000,Fenerbahçe,150.0,31.0,4.0,2,Kombi (Doğalgaz),16-20,Mülk,Danışman,Kat Mülkiyeti,Evet,0.0
+540,Fenerbahçe Ayanoğlu ve Bağdat Caddesi Yakın Balkonlu Sıfır 3+1,9750000,Fenerbahçe,100.0,31.0,9.0,7,Kombi (Doğalgaz),0,Boş,,,Evet,0.0
+541,FENERBAHÇE DALYAN DA LEBİ DERYA 350 M2 5+1 ARA KAT,67000000,Fenerbahçe,230.0,51.0,4.0,2,Yerden Isıtma,4,Boş,,,Evet,
+542,Fenerbahçe Yüzme Havuzlu Güvenlikli Binada Teraslı Dubleks,22000000,Fenerbahçe,220.0,42.0,10.0,10,Merkezi Sistem (Isı Payı Ölçer),6-10,Mülk,,,Evet,0.0
+543,Fenerbahçe Deniz Manzaralı Güvenlik Kahve Dünyası Süt İş,9500000,Fenerbahçe,133.0,31.0,1020.0,15,Merkezi Sistem (Isı Payı Ölçer),2,Boş,,,Evet,0.0
+544,CİTY DEN FENERBAHÇE AYANOĞLU CAD. SİNDE KATTA TEK 4 YILLIK 160m2,13950000,Fenerbahçe,125.0,31.0,1020.0,5,Kombi (Doğalgaz),4,,,Kat Mülkiyeti,Evet,0.0
+545,CİTY'DEN FENERYOLU DA BAĞDAT CAD. 2.BİNA BALKONLU MİMARİ DEKORLU,6950000,Fenerbahçe,130.0,41.0,4.0,2,Kombi (Doğalgaz),31-35,Boş,Danışman,Kat Mülkiyeti,Evet,0.0
+546,Fenerbahçe Kalamış Wyndham Otel Yakın Güvenlikli Yüzme Havuzlu,13500000,Fenerbahçe,128.0,31.0,1020.0,9,Merkezi Sistem (Isı Payı Ölçer),4,Kiracılı,,,Evet,0.0
+547,CİTY'DEN KALAMIŞ PARKINA YAKIN KAPANMAZ DENİZ MANZARALI 4+1,18500000,Fenerbahçe,160.0,41.0,3.0,3,Kombi (Doğalgaz),0,Boş,,Kat İrtifakı,Evet,0.0
+548,CİTY'DEN KALAMIŞ PARKINA YAKIN KAPANMAZ DENİZ MANZARALI 4+1,18500000,Fenerbahçe,160.0,41.0,3.0,3,Kombi (Doğalgaz),0,Boş,Danışman,Kat İrtifakı,Evet,0.0
+549,FENERBAHÇE'DE 6 YILLIK 145M2 EBEVEYN BANYOLU LÜKS TEK YETKİLİYİZ,11250000,Fenerbahçe,115.0,31.0,1020.0,2,Merkezi Sistem (Isı Payı Ölçer),6-10,Kiracılı,Danışman,Kat Mülkiyeti,Evet,
+550,Fenerbahçe Ordu Evi Caddesi Denize Yakın Teraslı Dubleks Sıfır,17550000,Fenerbahçe,255.0,41.0,7.0,7,Kombi (Doğalgaz),2,Boş,,,Evet,0.0
+551,FENERBAHÇE FENER KALAMIŞ CADDESİ ÜZERİNDE 90 M2 DÜKKAN,7000000,Fenerbahçe,77.0,1.0,4.0,Zemin Kat,Merkezi Sistem,26-30,Kiracılı,Danışman,Kat Mülkiyeti,Evet,
+552,BAĞDAT CADDESİ ÜZERİNDE 3500 M2 KOMPLE BİNA,250000000,Fenerbahçe,,,4.0,,Merkezi Sistem,2,Kiracılı,Danışman,Kat Mülkiyeti,Evet,
+553,Fenerbahçe Kahve Dünyası Sütişe Yakın 3+1 Satılık Daire,12000000,Fenerbahçe,110.0,31.0,1020.0,1,Merkezi Sistem (Isı Payı Ölçer),6-10,Boş,,,Evet,0.0
+554,KALAMIŞ RESİDENCE 45000 TL KİRA GETİRİLİ 3.KAT 360m2 SATILIK 5+1,30000000,Fenerbahçe,330.0,51.0,20.0,3,Merkezi Sistem,16-20,Mülk,Danışman,Kat Mülkiyeti,Hayır,45000.0
+555,KALAMIŞ RESİDENCE 45000 TL KİRA GETİRİLİ 3.KAT 360m2 SATILIK 5+1,30000000,Fenerbahçe,330.0,51.0,20.0,3,Merkezi Sistem,16-20,Mülk,Danışman,Kat Mülkiyeti,Evet,45000.0
+556,DALYAN SAHİLDE 1 YILLIK 250M2 LEBİDERYA TERASLI İSKANLI DUBLEKS,26450000,Fenerbahçe,195.0,42.0,1020.0,14,Merkezi Sistem (Isı Payı Ölçer),1,Mülk,Danışman,Kat Mülkiyeti,Evet,
+557,CEMİL TOPUZLU CADDESİNDE MUHTEŞEM LOKASYONDA 3+1,11950000,Fenerbahçe,110.0,31.0,8.0,4,Kombi (Doğalgaz),16-20,Boş,,,Evet,0.0
+558,Fenerbahçe Dalyan Ordu Evi Yakın Kapalı Otoparklı Dubleks,19900000,Fenerbahçe,256.0,52.0,8.0,8,Yerden Isıtma,21-25,Boş,,,Evet,0.0
+559,Vatandaşlığa Uygun Kalamış Caddesi 3+1 Satılık Lüks Konut,9400000,Fenerbahçe,100.0,31.0,1020.0,5,Klima,4,Mülk,,,Hayır,0.0
+560,FENERBAHÇE DALYAN SAHİL YEŞİLLİKLER İÇİNDE BOŞ DAİRE 4+1 165 M2,18750000,Fenerbahçe,150.0,41.0,1020.0,1,Kalorifer (Doğalgaz),26-30,Boş,Danışman,Kat İrtifakı,Evet,
+561,Fenerbahçe Dalyan Sahil Yakın Balkonlu Sıfır Satılık Daire,15000000,Fenerbahçe,135.0,31.0,1020.0,8,Merkezi Sistem (Isı Payı Ölçer),0,Boş,,,Evet,0.0
+562,Fenerbahçe Kalamış Deniz Marina Doğa Manzaralı 3+1 Satılık,13800000,Fenerbahçe,122.0,31.0,10.0,7,Yerden Isıtma,4,Kiracılı,,,Evet,0.0
+563,Fenerbahçe Dalyan Kulüp Ordu Evi Yakın Satılık 3+1 Daire,9750000,Fenerbahçe,100.0,31.0,10.0,6,Kombi (Doğalgaz),4,Kiracılı,,,Evet,0.0
+564,Kalamış'ta Denize 4. Bina Konumunda Balkonlu Lüks Kombili,5400000,Fenerbahçe,85.0,21.0,8.0,1,Kombi (Doğalgaz),21-25,Mülk,,,Evet,0.0
+565,FENERBAHÇE DE CEMİL TOPUZLU ÜSTÜNDE GENÇ BİNADA SATILIK 3+1,13000000,Fenerbahçe,100.0,31.0,7.0,1,Kombi (Doğalgaz),6-10,Boş,Danışman,Kat Mülkiyeti,Evet,
+566,Çiftehavuzlar Sahil Dalyan Deniz Parka Yakın Balkonlu Sıfır 3+1,15000000,Fenerbahçe,130.0,31.0,1020.0,8,Merkezi Sistem (Isı Payı Ölçer),0,Boş,,,Evet,0.0
+567,BAĞDAT CADDESİ ÜZERİ 4+1 150 M2 NET SATILIK DAİRE 9.550.000 TL,9550000,Fenerbahçe,150.0,41.0,5.0,1,Merkezi Sistem,21-25,Mülk,,,Evet,0.0
+568,F.BAHÇE MARİNADA 155M2  LEBİDERYA BALKONLU GÜVENLİKLİ,15750000,Fenerbahçe,120.0,31.0,1020.0,9,Merkezi Sistem (Isı Payı Ölçer),31-35,Kiracılı,Danışman,Kat Mülkiyeti,Evet,
+569,Fenerbahçe Dr. Faruk Ayanoğlu - Bağdat Caddesi 3+1 Satılık,9250000,Fenerbahçe,100.0,31.0,8.0,5,Kombi (Doğalgaz),0,Boş,,,Evet,0.0
+570,Fenerbahçe Dr.Faruk Ayanoğlu Cad Üzeri 3+1 Satılık 90m²Net Daire,11250000,Fenerbahçe,90.0,31.0,1020.0,6,Klima,0,Boş,,,Evet,0.0
+571,CEMİL TOPUZLU CADDESİ ÜZERİNDE 210 M2 NET (5+2) SATILIK DUBLEKS,20750000,Fenerbahçe,210.0,52.0,9.0,9,Merkezi Sistem (Isı Payı Ölçer),4,Mülk,,,Evet,0.0
+572,ÇİFTEHAVUZLAR BOZKIR SOKAK 3+1 SATILIK DAİRE,12100000,Fenerbahçe,105.0,31.0,1020.0,8,Klima,4,Mülk,,,Evet,0.0
+573,FENERBAHÇE EGEMEN SOKAK'TA 130 M2 NET (3+1) SATILIK DAİRE,8000000,Fenerbahçe,130.0,31.0,1020.0,5,Merkezi Sistem,31-35,Mülk,,,Evet,0.0
+574,CEMİL TOPUZLU CAD. ÜZERİNDE KISMİ DENİZ MANZARALI LÜKS SATILIK,21950000,Fenerbahçe,149.0,41.0,1020.0,8,Klima,6-10,Boş,,,Evet,0.0
+575,FENERBAHÇE'DE ALTERNATİFSİZ ULTRA LÜKS YAPILI SATILIK GENİŞ 3+1,17500000,Fenerbahçe,120.0,31.0,6.0,1,Klima,2,Mülk,,,Evet,0.0
+576,ÇİFTEHAVUZLAR SAHİLDE PARK MANZARALI 2 GENİŞ BALKONLU,13500000,Fenerbahçe,100.0,31.0,1020.0,10,Merkezi Sistem (Isı Payı Ölçer),2,Kiracılı,,,Evet,0.0
+577,Fenerbahçe Bozkır Sok.'da Deniz Manzaralı 200m² Net 4+1 Satılık,11450000,Fenerbahçe,200.0,41.0,1020.0,13,Merkezi Sistem (Isı Payı Ölçer),31-35,Kiracılı,,,Evet,0.0
+578,FENERBAHÇE YALI PARSEL'DE KATTA TEK DENİZ MANZARALI 300M2 DAİRE,18500000,Fenerbahçe,240.0,62.0,1020.0,11,Kombi (Doğalgaz),4,Boş,,,Evet,0.0
+579,KALAMIŞ MARİNA'DA YENİ BİTMİŞ BİNADA BALKONLU 3+1,10800000,Fenerbahçe,103.0,31.0,10.0,1,Kombi (Doğalgaz),0,Boş,,,Evet,0.0
+580,KALAMIŞ MARİNA MANZARALI SATILIK LÜKS DAİRE,13750000,Fenerbahçe,106.0,31.0,10.0,8,Klima,0,Boş,,,Hayır,0.0
+581,FENERBAHÇE FARUKAYANOĞLU CAD FIRSAT DAİRE,6750000,Fenerbahçe,75.0,21.0,9.0,8,Kombi (Doğalgaz),6-10,Kiracılı,,,Evet,0.0
+582,FENERBAHÇE SAHİLDE 3+1 NET 80 m2 SATILIK DAİRE,6850000,Fenerbahçe,80.0,31.0,4.0,1,Kombi (Doğalgaz),31-35,Kiracılı,,,Evet,0.0
+583,FENERBAHÇEDE 0 BİNADA EBEVEYN BANYO&BALKONLU 135M2 3+1 DAİRE,9650000,Fenerbahçe,95.0,31.0,10.0,7,Klima,0,Boş,,,Evet,0.0
+584,F.BAHÇE CEMİL TOPUZLU CADDESİNDE 11 YILLIK BİNADA 140M2 3+1DAİRE,11900000,Fenerbahçe,115.0,31.0,7.0,4,Kombi (Doğalgaz),11-15,Boş,,,Evet,0.0
+585,DENİZ MANZARALI OTOPARKLI ENFES ARA KAT DAİRE,11000000,Fenerbahçe,150.0,41.0,1020.0,7,Merkezi Sistem,31-35,Boş,,Kat Mülkiyeti,Evet,0.0
+586,KDV AVANTAJLI KALAMIŞ'TA SİTE İÇİNDE TAPU MASRAFI YOK,18500000,Fenerbahçe,147.0,,,,,,,,,Evet,0.0
+587,OPTİMA'DAN FENERBAHÇEDE SIFIR BİNADA BALKONLU KOMBİLİ FERAH 3+1,9650000,Fenerbahçe,95.0,31.0,10.0,7,Klima,0,Boş,,,Evet,0.0
+588,istanbul Kadıköy fenerbahce mh 3+1 arakat 11.kat satılık,6000000,Fenerbahçe,125.0,31.0,1020.0,13,Kombi (Doğalgaz),31-35,Mülk,Danışman,Kat Mülkiyeti,Evet,25000.0
+589,OPTİMA'DAN KALAMIŞ WYNDHAM OTELE KOMŞU SIFIR BALKONLU 3+1,10800000,Fenerbahçe,103.0,31.0,10.0,1,Kombi (Doğalgaz),0,Boş,Danışman,Kat Mülkiyeti,Evet,0.0
+590,Bağdat caddesi üzerinde kaçırılmaz lokasyon,11750000,Fenerbahçe,170.0,41.0,4.0,2,Kombi (Doğalgaz),31-35,Kiracılı,,,Evet,0.0
+591,"KALAMIŞTA, KAPANMAZ DENİZ MANZARALI",14950000,Fenerbahçe,125.0,31.0,4.0,4,Merkezi Sistem,40,Boş,,,Evet,0.0
+592,ÇİFTEHAVUZLAR BAĞDAT CADDESİ ÜZERİ OFİSE UYGUN 180 m² DAİRE,12500000,Fenerbahçe,160.0,41.0,4.0,3,Kombi (Doğalgaz),0,Boş,,,Hayır,0.0
+593,Fenerbahçede Bağdat Caddesine 2.Binada 3+1 Balkonlu Sıfır Daire,9650000,Fenerbahçe,95.0,31.0,9.0,7,Klima,0,Boş,,,Hayır,0.0
+594,YONAT CAKMAN TEK YETKİLİ!!PRESTİJLİ BİNADA DENİZ MANZARALI,10500000,Fenerbahçe,110.0,31.0,8.0,4,Kombi (Doğalgaz),16-20,Boş,,,Evet,0.0
+595,FENERBAHÇE ORDUEVİNİN YANIBAŞINDA DENİZ GÖREN 3+1 12YILLIK DAİRE,9975000,Fenerbahçe,100.0,31.0,7.0,4,Klima,11-15,Boş,,,Evet,0.0
+596,TEK YETKİLİ SİTE ÖZELLİKLİ VATANDAŞLIĞA UYGUN BALKONLU EBEVEYNLİ,11550000,Fenerbahçe,114.0,31.0,4.0,3,Klima,0,Mülk,,,Evet,0.0
+597,TEK YETKİLİ!! FENERBAHÇE'DE SİTE ÖZELLİKLİ 2+1 TERS DUBLEKS,4950000,Fenerbahçe,108.0,21.0,4.0,Yüksek Giriş,Klima,0,Boş,,,Evet,0.0
+598,YONAT CAKMAN DAN TEK YETKİLİ. PRESTİJLİ BİNADA DENİZ MANZARALI,12000000,Fenerbahçe,110.0,31.0,9.0,4,Kombi (Doğalgaz),16-20,Boş,,Kat Mülkiyeti,Evet,0.0
+599,FENERBAHÇE'DE 160M2 3+1 GENİŞ BALKONLU KATTA TEK MASRAFSIZ DAİRE,7850000,Fenerbahçe,125.0,31.0,6.0,4,Merkezi Sistem,31-35,Mülk,,,Evet,0.0
+600,FENERBAHÇEDE VATANDAŞLIĞA UYGUN EMSALSİZ 135M2 3+1 İSKANLI DAİRE,12000000,Fenerbahçe,105.0,31.0,1020.0,1,Klima,6-10,Boş,,,Evet,0.0
+601,FENERBAHÇE SAHİLDE 135 m2 3+1 LUX BİNADA,12000000,Fenerbahçe,105.0,31.0,1020.0,1,Klima,6-10,Boş,,,Evet,0.0
+602,FENERBAHÇE ÇAMLIK PARKIN YANINDA YENİ BİNA DA 3+1 SATILIK DAİRE,7750000,Fenerbahçe,90.0,31.0,7.0,2,Klima,6-10,Kiracılı,,,Evet,0.0
+603,FENERBAHÇE CEMİL TOPUZLU CD ÜSTÜNDE 140M2 3+1 GENÇ BİNA BALKONLU,11950000,Fenerbahçe,110.0,31.0,7.0,4,Klima,11-15,Boş,,,Evet,0.0
+604,YONAT CAKMAN DAN FENERKALAMIŞ CADDESİ ÜZERİ SÜPER KONUMDA,6295000,Fenerbahçe,80.0,21.0,4.0,2,Merkezi Sistem,26-30,Boş,,,Evet,0.0
+605,FENERBAHÇE SAHİL'DE 135M2 3+1 BALKONLU SIFIR BİNA FIRSAT!,11500000,Fenerbahçe,105.0,31.0,10.0,8,Klima,0,Boş,,,Evet,0.0
+606,FENERBAHÇE SAHİL YOLU ÜZERİNDE 110 M2 ULTRA LUX,6295000,Fenerbahçe,85.0,21.0,3.0,2,Klima,26-30,Boş,,,Evet,0.0
+607,YONAT CAKMAN DAN SÜPER KONUMDA BEYAZ FIRIN YANI,11950000,Fenerbahçe,100.0,31.0,7.0,4,Kombi (Doğalgaz),11-15,Boş,,Kat Mülkiyeti,Evet,0.0
+608,FENERBAHÇE BURUNDA LEBİDERYA DENİZ MANZARALI TERASLI KUPON,5850000,Fenerbahçe,58.0,11.0,1020.0,11,Kombi (Doğalgaz),2,Boş,,Kat Mülkiyeti,Evet,0.0
+609,FENERBAHÇE'DE DENİZ MANZARALI CADDE ÜZERİNDE SATILIK 4+1 DAİRE,22700000,Fenerbahçe,200.0,41.0,1020.0,4,Merkezi Sistem (Isı Payı Ölçer),0,Boş,,,Evet,0.0
+610,Caddebostan sahilde 3+1 balkonlu depolu yabancı satışa uygun,10500000,Caddebostan,100.0,31.0,7.0,3,Klima,4,Kiracılı,,,Evet,0.0
+611,BAĞDAT CADDESİ SATILIK SÜPER LÜKS ÇATI DUBLEKS. İYİ YATIRIM,21424500,Caddebostan,178.0,41.0,7.0,7,Kombi (Doğalgaz),3,Boş,İnşaat,Kat Mülkiyeti,Hayır,

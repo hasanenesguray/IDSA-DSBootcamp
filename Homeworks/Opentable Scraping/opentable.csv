@@ -1,0 +1,154 @@
+,restaurant_name,avg_rating,review_number,avg_price,dish_type,neighborhood,dining_style,dress_code,parking_details,photo_number
+0,Nobu Istanbul,4.5,22,$50 and over,Japanese,Şişli,Casual Dining,Smart Casual,Valet,1 Photo
+1,Safran Restaurant,4.6,29,$50 and over,Turkish,Beyoğlu,Fine Dining,Formal Attire,Hotel Parking,12 Photos
+2,Peninsula Teras Restaurant,5,1,$30 and under,Turkish,Sultanahmet,Casual Dining,Business Casual,None,12 Photos
+3,Tuğra Restaurant & Lounge,5,1,$31 to $50,Middle Eastern,Sultanahmet,Casual Dining,Business Casual,None,2 Photos
+4,IST TOO,0,0,$31 to $50,International,Sultanahmet,Casual Dining,Business Casual,None,11 Photos
+5,City Lights Bar,4.5,23,$31 to $50,International,Beyoğlu,Casual Dining,Smart Casual,Hotel Parking,16 Photos
+6,SHANG PALACE,4.6,4,$31 to $50,Asian,Sultanahmet,Casual Dining,Business Casual,None,5 Photos
+7,Atölye Restaurant,0,0,$30 and under,International,Şişli,Elegant Dining,Smart Casual,Valet,Menu
+8,Yali,0,0,$50 and over,"Global, International",Beşiktaş,Casual Dining,Casual Dress,Hotel Parking,1 Photo
+9,Cok Cok Thai - Classic Thai,4.2,11,$30 and under,Asian,Beyoğlu,Casual Dining,Business Casual,None,34 Photos
+10,Kafi Istanbul,0,0,$30 and under,Turkish,Sultanahmet,Casual Dining,Business Casual,None,7 Photos
+11,Alancha,4.7,1,$50 and over,Seafood,Sultanahmet,Casual Dining,Business Casual,None,11 Photos
+12,Hadi Karaköy,5,1,$30 and under,Turkish,Sultanahmet,Casual Dining,Business Casual,None,12 Photos
+13,Ali Ocakbaşı Karaköy,0,0,$30 and under,Middle Eastern,Sultanahmet,Casual Dining,Business Casual,None,4 Photos
+14,Yalan Dünya,0,0,$30 and under,Turkish,Sultanahmet,Casual Dining,Business Casual,None,14 Photos
+15,Jazz ve Burger,0,0,$30 and under,Burgers,Sultanahmet,Casual Dining,Business Casual,None,5 Photos
+16,Dubb Indian Bosphorus Restaurant & Bar,3.4,3,$30 and under,Indian,Sultanahmet,Casual Dining,Business Casual,None,7 Photos
+17,Matbah Ottoman Palace Cuisine,4.3,1,$30 and under,Middle Eastern,Sultanahmet,Casual Dining,Business Casual,None,15 Photos
+18,Habesha Restaurant İstanbul,5,2,$30 and under,African,Sultanahmet,Casual Dining,Business Casual,None,11 Photos
+19,Limoncello,4.2,2,$31 to $50,Turkish,Sultanahmet,Casual Dining,Business Casual,None,5 Photos
+20,Garden Mezze Restoran,0,0,$30 and under,Turkish,Sultanahmet,Casual Dining,Business Casual,None,6 Photos
+21,Sur Balık Sarayburnu,5,1,$31 to $50,Seafood,Sultanahmet,Casual Dining,Business Casual,None,2 Photos
+22,Cafe Bunka Sushi & Japanese Restaurant,5,1,$30 and under,Asian,Sultanahmet,Casual Dining,Business Casual,None,7 Photos
+23,Juno,4.3,1,$30 and under,Italian,Sultanahmet,Casual Dining,Business Casual,None,3 Photos
+24,Nişantaşi Başköşe,4.5,1,$30 and under,Middle Eastern,Sultanahmet,Casual Dining,Business Casual,None,12 Photos
+25,Nars Brasserie,0,0,$30 and under,International,Sultanahmet,Casual Dining,Business Casual,None,16 Photos
+26,Panoramic Restaurant,4.3,4,$30 and under,Spanish,Sultanahmet,Casual Dining,Business Casual,None,11 Photos
+27,Faros Restaurant Taksim,5,1,$30 and under,Italian,Sultanahmet,Casual Dining,Business Casual,None,4 Photos
+28,Tebek Korea Restaurant,4.2,1,$30 and under,Korean,Sultanahmet,Casual Dining,Business Casual,None,2 Photos
+29,Glens Nişantaşı,4.4,2,$30 and under,Italian,Sultanahmet,Casual Dining,Business Casual,None,24 Photos
+30,F&B Culture,4,1,$30 and under,Turkish,Sultanahmet,Casual Dining,Business Casual,None,5 Photos
+31,Hacı Abdullah Lokantası,0,0,$30 and under,Middle Eastern,Sultanahmet,Casual Dining,Business Casual,None,5 Photos
+32,Swiss Restaurant,5,1,$30 and under,Swiss,Ortaköy,Casual Dining,Business Casual,None,5 Photos
+33,Sur Balık Cihangir,4.7,1,$31 to $50,Seafood,Sultanahmet,Casual Dining,Business Casual,None,3 Photos
+34,Galata Kitchen,3.8,4,$30 and under,Turkish,Sultanahmet,Casual Dining,Business Casual,None,10 Photos
+35,İmera Cihangir,0,0,$30 and under,International,Sultanahmet,Casual Dining,Business Casual,None,7 Photos
+36,Yirmibir Ocakbaşı,4.4,11,$30 and under,Middle Eastern,Sultanahmet,Casual Dining,Business Casual,None,5 Photos
+37,Vezenan 2 Restaurant,0,0,$30 and under,Turkish,Sultanahmet,Casual Dining,Business Casual,None,3 Photos
+38,Mykonos by Kamo's,0,0,$30 and under,Unspecified,Sultanahmet,Casual Dining,Business Casual,None,2 Photos
+39,Social Jazz Bar,1,1,$31 to $50,Turkish,Sultanahmet,Casual Dining,Business Casual,None,14 Photos
+40,Galatalife Cafe Restaurant,0,0,$30 and under,Turkish,Sultanahmet,Casual Dining,Business Casual,None,4 Photos
+41,Nişantaşı Balıkçısı,0,0,$30 and under,Seafood,Sultanahmet,Casual Dining,Business Casual,None,3 Photos
+42,Ceres,0,0,$31 to $50,Mediterranean,Beyoğlu,Casual Elegant,Business Casual,Valet,2 Photos
+43,Akıntıburnu Balık,0,0,$31 to $50,Seafood,Beşiktaş,Casual Dining,Business Casual,None,8 Photos
+44,Karaköy Gümrük,4.5,2,$30 and under,Middle Eastern,Sultanahmet,Casual Dining,Business Casual,None,4 Photos
+45,Hamdi Restaurant,4.6,5,$30 and under,Middle Eastern,Sultanahmet,Casual Dining,Business Casual,None,5 Photos
+46,Pepo's Galata,5,1,$30 and under,International,Sultanahmet,Casual Dining,Business Casual,None,8 Photos
+47,Hamdi Restaurant Pera,4.3,2,$30 and under,Middle Eastern,Sultanahmet,Casual Dining,Business Casual,None,4 Photos
+48,Nobu Istanbul,4.5,22,$50 and over,Japanese,Şişli,Casual Dining,Smart Casual,Valet,1 Photo
+49,Safran Restaurant,4.6,29,$50 and over,Turkish,Beyoğlu,Fine Dining,Formal Attire,Hotel Parking,12 Photos
+50,Peninsula Teras Restaurant,5,1,$30 and under,Turkish,Sultanahmet,Casual Dining,Business Casual,None,12 Photos
+51,Tuğra Restaurant & Lounge,5,1,$31 to $50,Middle Eastern,Sultanahmet,Casual Dining,Business Casual,None,2 Photos
+52,KEBAPÇI Etiler,4.7,14,$31 to $50,Meat,Beşiktaş,Casual Dining,Smart Casual,Valet,37 Photos
+53,IST TOO,0,0,$31 to $50,International,Sultanahmet,Casual Dining,Business Casual,None,11 Photos
+54,City Lights Bar,4.5,23,$31 to $50,International,Beyoğlu,Casual Dining,Smart Casual,Hotel Parking,16 Photos
+55,SHANG PALACE,4.6,4,$31 to $50,Asian,Sultanahmet,Casual Dining,Business Casual,None,5 Photos
+56,Atölye Restaurant,0,0,$30 and under,International,Şişli,Elegant Dining,Smart Casual,Valet,Menu
+57,Yali,0,0,$50 and over,"Global, International",Beşiktaş,Casual Dining,Casual Dress,Hotel Parking,1 Photo
+58,Fine Dine Istanbul,4.5,12,$31 to $50,Turkish,Fatih,Casual Dining,Business Casual,None,30 Photos
+59,Cok Cok Thai - Classic Thai,4.2,11,$30 and under,Asian,Beyoğlu,Casual Dining,Business Casual,None,34 Photos
+60,Kafi Istanbul,0,0,$30 and under,Turkish,Sultanahmet,Casual Dining,Business Casual,None,7 Photos
+61,Alancha,4.7,1,$50 and over,Seafood,Sultanahmet,Casual Dining,Business Casual,None,11 Photos
+62,Hadi Karaköy,5,1,$30 and under,Turkish,Sultanahmet,Casual Dining,Business Casual,None,12 Photos
+63,Ali Ocakbaşı Karaköy,0,0,$30 and under,Middle Eastern,Sultanahmet,Casual Dining,Business Casual,None,4 Photos
+64,Yalan Dünya,0,0,$30 and under,Turkish,Sultanahmet,Casual Dining,Business Casual,None,14 Photos
+65,Jazz ve Burger,0,0,$30 and under,Burgers,Sultanahmet,Casual Dining,Business Casual,None,5 Photos
+66,Dubb Indian Bosphorus Restaurant & Bar,3.4,3,$30 and under,Indian,Sultanahmet,Casual Dining,Business Casual,None,7 Photos
+67,Matbah Ottoman Palace Cuisine,4.3,1,$30 and under,Middle Eastern,Sultanahmet,Casual Dining,Business Casual,None,15 Photos
+68,Habesha Restaurant İstanbul,5,2,$30 and under,African,Sultanahmet,Casual Dining,Business Casual,None,11 Photos
+69,Limoncello,4.2,2,$31 to $50,Turkish,Sultanahmet,Casual Dining,Business Casual,None,5 Photos
+70,Garden Mezze Restoran,0,0,$30 and under,Turkish,Sultanahmet,Casual Dining,Business Casual,None,6 Photos
+71,Sur Balık Sarayburnu,5,1,$31 to $50,Seafood,Sultanahmet,Casual Dining,Business Casual,None,2 Photos
+72,Cafe Bunka Sushi & Japanese Restaurant,5,1,$30 and under,Asian,Sultanahmet,Casual Dining,Business Casual,None,7 Photos
+73,Juno,4.3,1,$30 and under,Italian,Sultanahmet,Casual Dining,Business Casual,None,3 Photos
+74,Nişantaşi Başköşe,4.5,1,$30 and under,Middle Eastern,Sultanahmet,Casual Dining,Business Casual,None,12 Photos
+75,Nars Brasserie,0,0,$30 and under,International,Sultanahmet,Casual Dining,Business Casual,None,16 Photos
+76,Panoramic Restaurant,4.3,4,$30 and under,Spanish,Sultanahmet,Casual Dining,Business Casual,None,11 Photos
+77,Faros Restaurant Taksim,5,1,$30 and under,Italian,Sultanahmet,Casual Dining,Business Casual,None,4 Photos
+78,Tebek Korea Restaurant,4.2,1,$30 and under,Korean,Sultanahmet,Casual Dining,Business Casual,None,2 Photos
+79,Glens Nişantaşı,4.4,2,$30 and under,Italian,Sultanahmet,Casual Dining,Business Casual,None,24 Photos
+80,F&B Culture,4,1,$30 and under,Turkish,Sultanahmet,Casual Dining,Business Casual,None,5 Photos
+81,Hacı Abdullah Lokantası,0,0,$30 and under,Middle Eastern,Sultanahmet,Casual Dining,Business Casual,None,5 Photos
+82,Swiss Restaurant,5,1,$30 and under,Swiss,Ortaköy,Casual Dining,Business Casual,None,5 Photos
+83,Sur Balık Cihangir,4.7,1,$31 to $50,Seafood,Sultanahmet,Casual Dining,Business Casual,None,3 Photos
+84,Galata Kitchen,3.8,4,$30 and under,Turkish,Sultanahmet,Casual Dining,Business Casual,None,10 Photos
+85,İmera Cihangir,0,0,$30 and under,International,Sultanahmet,Casual Dining,Business Casual,None,7 Photos
+86,Yirmibir Ocakbaşı,4.4,11,$30 and under,Middle Eastern,Sultanahmet,Casual Dining,Business Casual,None,5 Photos
+87,Vezenan 2 Restaurant,0,0,$30 and under,Turkish,Sultanahmet,Casual Dining,Business Casual,None,3 Photos
+88,Mykonos by Kamo's,0,0,$30 and under,Unspecified,Sultanahmet,Casual Dining,Business Casual,None,2 Photos
+89,Social Jazz Bar,1,1,$31 to $50,Turkish,Sultanahmet,Casual Dining,Business Casual,None,14 Photos
+90,Galatalife Cafe Restaurant,0,0,$30 and under,Turkish,Sultanahmet,Casual Dining,Business Casual,None,4 Photos
+91,Nişantaşı Balıkçısı,0,0,$30 and under,Seafood,Sultanahmet,Casual Dining,Business Casual,None,3 Photos
+92,Ceres,0,0,$31 to $50,Mediterranean,Beyoğlu,Casual Elegant,Business Casual,Valet,2 Photos
+93,Akıntıburnu Balık,0,0,$31 to $50,Seafood,Beşiktaş,Casual Dining,Business Casual,None,8 Photos
+94,Karaköy Gümrük,4.5,2,$30 and under,Middle Eastern,Sultanahmet,Casual Dining,Business Casual,None,4 Photos
+95,Hamdi Restaurant,4.6,5,$30 and under,Middle Eastern,Sultanahmet,Casual Dining,Business Casual,None,5 Photos
+96,Pepo's Galata,5,1,$30 and under,International,Sultanahmet,Casual Dining,Business Casual,None,8 Photos
+97,Hamdi Restaurant Pera,4.3,2,$30 and under,Middle Eastern,Sultanahmet,Casual Dining,Business Casual,None,4 Photos
+98,Del Mare Restaurant,0,0,$31 to $50,Seafood,Üsküdar,Casual Dining,Business Casual,None,4 Photos
+99,Kaen Sushi,4.6,34,$30 and under,Sushi,Sultanahmet,Casual Dining,Business Casual,None,9 Photos
+100,Nezih Kebap-Yuvalama,3.5,30,$30 and under,Turkish,Beşiktaş,Casual Dining,Business Casual,None,5 Photos
+101,Gürkan Şef Steakhouse - Etiler,4.8,2,$30 and under,International,Beşiktaş,Casual Dining,Business Casual,None,30 Photos
+102,Scarlet,5,1,$30 and under,Turkish,Levent,Casual Dining,Business Casual,None,10 Photos
+103,The Doctor Steakhouse,4,2,$30 and under,Steak,Levent,Casual Dining,Business Casual,None,5 Photos
+104,Lotus Coffee & Resto,0,0,$30 and under,International,Beykoz,Casual Dining,Business Casual,None,5 Photos
+105,Moshonis Balık Restaurant,0,0,$30 and under,Fish,Kadıköy,Casual Dining,Business Casual,None,10 Photos
+106,Develi Kalamış,0,0,$31 to $50,Middle Eastern,Kadıköy,Casual Dining,Business Casual,None,3 Photos
+107,Vesile Ocakbaşı,0,0,$30 and under,Turkish,Kadıköy,Casual Dining,Business Casual,None,8 Photos
+108,MahiyET Steakhouse & Burger,5,1,$30 and under,Burgers,Gaziosmanpaşa,Casual Dining,Business Casual,None,6 Photos
+109,By Meziyet,0,0,$30 and under,Turkish,Kadıköy,Casual Dining,Business Casual,None,10 Photos
+110,Shato Steakhouse Bayrampaşa,0,0,$30 and under,Steak,Bayrampaşa,Casual Dining,Business Casual,None,8 Photos
+111,Beluga Balık,3.5,12,$31 to $50,Seafood,Ataşehir,Casual Dining,Business Casual,None,2 Photos
+112,Arnavutköy Balıkçısı Yeniköy,0,0,$30 and under,Seafood,Sarıyer,Casual Dining,Business Casual,None,11 Photos
+113,Toro Latin Gastro Bar,4.8,7,$50 and over,Asian,Sarıyer,Casual Dining,Business Casual,Valet,7 Photos
+114,Al Sharq Hilton Kozyatağı,5,1,$30 and under,Lebanese,Suadiye,Casual Dining,Business Casual,None,18 Photos
+115,Oishii Wok & Sushi,4.2,1,$30 and under,Sushi,Beykoz,Casual Dining,Business Casual,None,4 Photos
+116,Artane Balık Restaurant,0,0,$30 and under,Seafood,Sarıyer,Casual Dining,Business Casual,None,3 Photos
+117,Kebapçı Şenol Ocakbaşı,0,0,$30 and under,Middle Eastern,Göztepe,Casual Dining,Business Casual,None,8 Photos
+118,Egenin İncisi,0,0,$30 and under,Turkish,Suadiye,Casual Dining,Business Casual,None,5 Photos
+119,Ouzo Roof Restaurant,0,0,$31 to $50,Seafood,Kadıköy,Casual Dining,Business Casual,None,5 Photos
+120,Develi Ataşehir,3.4,58,$31 to $50,Middle Eastern,Ataşehir,Casual Dining,Business Casual,None,6 Photos
+121,Altun Balık,0,0,$30 and under,Seafood,Bakırköy,Casual Dining,Business Casual,None,7 Photos
+122,China Lotus,0,0,$30 and under,Chinese,Ataşehir,Casual Dining,Business Casual,None,4 Photos
+123,Macca Fish Restaurant,3.3,1,$30 and under,Seafood,Suadiye,Casual Dining,Business Casual,None,5 Photos
+124,01 Ocakbasi Alper Gultekin,5,1,$30 and under,Turkish,Ataşehir,Casual Dining,Business Casual,None,15 Photos
+125,Angel Blue Balık Restaurant,0,0,$30 and under,Seafood,Levent,Casual Dining,Business Casual,None,4 Photos
+126,Hristo Restaurant,0,0,$31 to $50,Seafood,Sarıyer,Casual Dining,Business Casual,None,5 Photos
+127,Filiz Restaurant,3.3,2,$30 and under,Seafood,Sarıyer,Casual Dining,Business Casual,None,4 Photos
+128,Cordon Plus,0,0,$30 and under,International,Suadiye,Casual Dining,Business Casual,None,8 Photos
+129,Lotus Lounge,0,0,$30 and under,International,Ataşehir,Casual Dining,Business Casual,None,7 Photos
+130,Volkan Arpacı Ocakbaşı Ataşehir,0,0,$30 and under,Middle Eastern,Ataşehir,Casual Dining,Business Casual,None,14 Photos
+131,Foça Balık Restaurant Ataşehir,3.2,8,$30 and under,Seafood,Ataşehir,Casual Dining,Business Casual,None,5 Photos
+132,Gaziantep Şehrizade,5,2,$30 and under,Turkish,Ataşehir,Casual Dining,Business Casual,None,3 Photos
+133,Melisa Balık Restaurant,0,0,$31 to $50,Seafood,Sarıyer,Casual Dining,Business Casual,None,4 Photos
+134,Avlu Restaurant,0,0,$50 and over,Mediterranean,Sarıyer,Fine Dining,Business Casual,Valet,3 Photos
+135,Fener Lokantası,4.2,1,$30 and under,Seafood,Bakırköy,Casual Dining,Business Casual,None,7 Photos
+136,Hak Evrensel Hatay Sofrası,4.4,11,$30 and under,Turkish,Bakırköy,Casual Dining,Business Casual,None,22 Photos
+137,Akira Back,0,0,$50 and over,International,Bakırköy,Casual Dining,Business Casual,None,Menu
+138,Büyük Hanedan Mangalbaşı,0,0,$30 and under,Turkish,Bakırköy,Casual Dining,Business Casual,None,4 Photos
+139,Kuş Evi,0,0,$30 and under,Turkish,Beykoz,Casual Dining,Business Casual,None,5 Photos
+140,Shato Steakhouse Göktürk,0,0,$30 and under,Steak,Eyüp,Casual Dining,Business Casual,None,10 Photos
+141,Calipso Restaurant,0,0,$30 and under,Seafood,Maltepe,Casual Dining,Business Casual,None,16 Photos
+142,Sahil Restaurant Burgazada,2.9,2,$30 and under,Fish,Burgazada,Casual Dining,Business Casual,None,6 Photos
+143,Balıkçı Süleyman Büyükada,3.3,1,$30 and under,Seafood,Büyükada,Casual Dining,Business Casual,None,2 Photos
+144,Neşeli Lokanta,0,0,$30 and under,Turkish,Heybeliada,Casual Dining,Business Casual,None,3 Photos
+145,Aden Boğazköy Tesisleri,3.3,1,$30 and under,Turkish,Arnavutköy,Casual Dining,Business Casual,None,13 Photos
+146,Secret Garden Restaurant Büyükada,3.8,9,$30 and under,Turkish,Büyükada,Casual Dining,Business Casual,None,11 Photos
+147,Dragos Balık Restaurant,4.3,7,$30 and under,Seafood,Kartal,Casual Dining,Business Casual,None,13 Photos
+148,Green Land Cafe & Restaurant,0,0,$30 and under,International,Beylikdüzü,Casual Dining,Business Casual,None,6 Photos
+149,Köşebaşı Beylikdüzü,4.7,8,$30 and under,Middle Eastern,Beylikdüzü,Casual Dining,Business Casual,None,3 Photos
+150,Dodo Balık Restaurant,4.8,5,$30 and under,Seafood,Tuzla,Casual Dining,Business Casual,None,7 Photos
+151,Tuzla Kanat Kebap Restaurant,5,1,$30 and under,Turkish,Tuzla,Casual Dining,Business Casual,None,4 Photos
+152,Çok Çok Pera / Contemporary Thai,4.5,15,$50 and over,Thai,Beyoğlu,Casual Dining,Business Casual,Valet,20 Photos
