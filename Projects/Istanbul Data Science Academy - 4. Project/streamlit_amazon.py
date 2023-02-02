@@ -156,7 +156,7 @@ if st.sidebar.button("Submit"):
     'Date': [today],
     'Time': [time],
     'review': [review_input],
-    'Prediction': [pred],
+    'Prediction': pred,
     'Negative Probability': [pred_probability[:,:1]],
     'Positive Probability': [pred_probability[:,1:]]
     })
